@@ -11,6 +11,5 @@ public class CrawlData {
 		new CrawlNhanVatLichSu();
 		new CrawlTrangNguyen();
 		new CrawlChuaNguyen();
-		System.out.println("Crawl Done");
 	}
 }
