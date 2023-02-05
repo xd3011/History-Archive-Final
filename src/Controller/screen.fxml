@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="586.0" prefWidth="702.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.screenController">
+   <children>
+      <Button layoutX="568.0" layoutY="161.0" mnemonicParsing="false" onAction="#btnSearch" prefHeight="31.0" prefWidth="85.0" text="Search">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <TextField fx:id="search" layoutX="337.0" layoutY="162.0" prefHeight="27.0" prefWidth="187.0">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <TextArea fx:id="view" layoutX="39.0" layoutY="212.0" prefHeight="335.0" prefWidth="614.0">
+         <font>
+            <Font size="16.0" />
+         </font></TextArea>
+      <Text layoutX="39.0" layoutY="121.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Lựa chọn đối tượng cần tìm:" wrappingWidth="226.13671875">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Text>
+      <Text layoutX="39.0" layoutY="182.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Nhập đối tượng cần tìm:" wrappingWidth="226.13671875">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Text>
+      <Button layoutX="260.0" layoutY="26.0" mnemonicParsing="false" onAction="#btnCrawlData" prefHeight="47.0" prefWidth="173.0" text="Thu Thập Lại Dữ Liệu">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Button>
+      <ChoiceBox fx:id="choiceBox" layoutX="337.0" layoutY="102.0" prefWidth="150.0" />
+   </children>
+</AnchorPane>

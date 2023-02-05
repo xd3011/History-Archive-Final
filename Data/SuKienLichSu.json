@@ -1,0 +1,901 @@
+[ {
+  "thoiDai" : "Thời đại đồ đá cũ",
+  "thoiGian" : "25.000 TCN–7.000 TCN",
+  "noiDungSuKien" : "Văn hóa Soi Nhụ",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thời đại đồ đá cũ",
+  "thoiGian" : "23.000 TCN",
+  "noiDungSuKien" : "Văn hóa Ngườm",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thời đại đồ đá cũ",
+  "thoiGian" : "23.000 TCN–1.000 TCN",
+  "noiDungSuKien" : "Văn hóa Tràng An",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thời đại đồ đá mới",
+  "thoiGian" : "12.000 TCN–10.000 TCN",
+  "noiDungSuKien" : "Văn hóa Hòa Bình",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thời đại đồ đá mới",
+  "thoiGian" : "10.000 TCN - 8.000 TCN",
+  "noiDungSuKien" : "Văn hóa Bắc Sơn",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thời đại đồ đá mới",
+  "thoiGian" : "8.000 TCN - 6.000 TCN",
+  "noiDungSuKien" : "Văn hóa Quỳnh Văn",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thời đại đồ đá mới",
+  "thoiGian" : "7.000 TCN - 5.000 TCN",
+  "noiDungSuKien" : "Văn hóa Cái Bèo",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thời đại đồ đồng đá",
+  "thoiGian" : "3.000 TCN–1.500 TCN",
+  "noiDungSuKien" : "Văn hóa Hạ Long",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thời đại đồ đồng đá",
+  "thoiGian" : "2.000 TCN–1.500 TCN",
+  "noiDungSuKien" : "Văn hóa Phùng Nguyên",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thời đại đồ đồng",
+  "thoiGian" : "1.500 TCN–1.000 TCN",
+  "noiDungSuKien" : "Văn hóa Đồng Đậu",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thời đại đồ sắt",
+  "thoiGian" : "1.000 TCN - 200",
+  "noiDungSuKien" : "Văn hóa Sa Huỳnh",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thời đại đồ sắt",
+  "thoiGian" : "1.000 TCN - 0",
+  "noiDungSuKien" : "Văn hóa Đồng Nai",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thời đại đồ sắt",
+  "thoiGian" : "700 TCN–100",
+  "noiDungSuKien" : "Văn hóa Đông Sơn",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thời đại đồ sắt",
+  "thoiGian" : "Thế kỉ VII TCN",
+  "noiDungSuKien" : "vua Hùng thành lập quốc gia Văn Lang",
+  "nhanVat" : "[vua Hùng]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thời đại đồ sắt",
+  "thoiGian" : "207 TCN",
+  "noiDungSuKien" : "An Dương Vương thôn tính Văn Lang, thành lập quốc gia Âu Lạc",
+  "nhanVat" : "[]",
+  "trieuDai" : "[An Dương Vương, Âu Lạc]"
+}, {
+  "thoiDai" : "Thuộc Nam Việt",
+  "thoiGian" : "179 TCN",
+  "noiDungSuKien" : "Triệu Đà xâm lược nước Âu Lạc, sáp nhập vào quốc gia Nam Việt",
+  "nhanVat" : "[Triệu Đà]",
+  "trieuDai" : "[Âu Lạc]"
+}, {
+  "thoiDai" : "Thuộc Hán",
+  "thoiGian" : "111 TCN",
+  "noiDungSuKien" : "nhà Hán thôn tính Nam Việt",
+  "nhanVat" : "[nhà Hán]",
+  "trieuDai" : "[nhà Hán]"
+}, {
+  "thoiDai" : "Thuộc Hán",
+  "thoiGian" : "40",
+  "noiDungSuKien" : "khởi nghĩa Hai Bà Trưng, Trưng Trắc thành lập quốc gia Lĩnh Nam, kinh đô đặt tại Mê Linh",
+  "nhanVat" : "[Trưng Trắc]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thuộc Hán",
+  "thoiGian" : "42 - 43",
+  "noiDungSuKien" : "Chiến tranh Lĩnh Nam - Đông Hán",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thuộc Hán",
+  "thoiGian" : "43",
+  "noiDungSuKien" : "Đông Hán thôn tính Lĩnh Nam",
+  "nhanVat" : "[Đông Hán]",
+  "trieuDai" : "[Đông Hán]"
+}, {
+  "thoiDai" : "Thuộc Hán",
+  "thoiGian" : "156–160",
+  "noiDungSuKien" : "Khởi nghĩa Chu Đạt",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thuộc Hán",
+  "thoiGian" : "178–181",
+  "noiDungSuKien" : "Khởi nghĩa Lương Long",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thuộc Lưu Tống",
+  "thoiGian" : "420",
+  "noiDungSuKien" : "Lưu Dụ ép Tấn Cung Đế nhường ngôi, lập ra nhà Lưu Tống",
+  "nhanVat" : "[Lưu Dụ, Tấn Cung Đế]",
+  "trieuDai" : "[Lưu Dụ, Tấn Cung Đế]"
+}, {
+  "thoiDai" : "Thuộc Lưu Tống",
+  "thoiGian" : "436",
+  "noiDungSuKien" : "Thứ sử Giao Châu Đàn Hòa Chi đánh Lâm Ấp, cướp châu báu rút về",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thuộc Lương",
+  "thoiGian" : "502",
+  "noiDungSuKien" : "Tiêu Diễn phế truất Tiêu Bảo Dung, thành lập nhà Lương",
+  "nhanVat" : "[Tiêu Bảo Dung]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thuộc Lương",
+  "thoiGian" : "541",
+  "noiDungSuKien" : "khởi nghĩa Lý Bí",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thuộc Đường",
+  "thoiGian" : "687",
+  "noiDungSuKien" : "khởi nghĩa Lý Tự Tiên",
+  "nhanVat" : "[Lý Tự Tiên]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thuộc Đường",
+  "thoiGian" : "713 - 723",
+  "noiDungSuKien" : "khởi nghĩa Mai Hắc Đế",
+  "nhanVat" : "[Mai Hắc Đế]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Tự chủ",
+  "thoiGian" : "905",
+  "noiDungSuKien" : "Khúc Thừa Dụ xây dựng chính quyền tự chủ",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Ngô",
+  "thoiGian" : "939",
+  "noiDungSuKien" : "Ngô Quyền xưng vương, kinh đô Cổ Loa",
+  "nhanVat" : "[Ngô Quyền]",
+  "trieuDai" : "[Cổ Loa]"
+}, {
+  "thoiDai" : "Nhà Đinh",
+  "thoiGian" : "968",
+  "noiDungSuKien" : "Đinh Bộ Lĩnh xưng đế, thành lập quốc gia Đại Cồ Việt, kinh đô Hoa Lư",
+  "nhanVat" : "[]",
+  "trieuDai" : "[Đại Cồ Việt, Hoa Lư]"
+}, {
+  "thoiDai" : "Nhà Đinh",
+  "thoiGian" : "970",
+  "noiDungSuKien" : "Đinh Bộ Lĩnh cho đúc Thái Bình hưng bảo, đồng tiền đầu tiên của Việt Nam",
+  "nhanVat" : "[]",
+  "trieuDai" : "[Thái Bình hưng bảo]"
+}, {
+  "thoiDai" : "Nhà Tiền Lê",
+  "thoiGian" : "980",
+  "noiDungSuKien" : "Lê Hoàn lên ngôi vua, thành lập nhà Tiền Lê",
+  "nhanVat" : "[]",
+  "trieuDai" : "[nhà Tiền Lê]"
+}, {
+  "thoiDai" : "Nhà Lý",
+  "thoiGian" : "1010",
+  "noiDungSuKien" : "Lý Công Uẩn dời đô về Thăng Long",
+  "nhanVat" : "[Lý Công Uẩn]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Lý",
+  "thoiGian" : "1054",
+  "noiDungSuKien" : "Lý Thánh Tông lên ngôi, đổi tên nước từ Đại Cồ Việt thành Đại Việt",
+  "nhanVat" : "[]",
+  "trieuDai" : "[Đại Cồ Việt]"
+}, {
+  "thoiDai" : "Nhà Lý",
+  "thoiGian" : "1069",
+  "noiDungSuKien" : "Chiến tranh Việt-Chiêm, Đại Việt chiếm được 3 châu của Chiêm Thành",
+  "nhanVat" : "[Đại Việt]",
+  "trieuDai" : "[Đại Việt]"
+}, {
+  "thoiDai" : "Nhà Lý",
+  "thoiGian" : "1075–1077",
+  "noiDungSuKien" : "Chiến tranh Tống-Việt",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Trần",
+  "thoiGian" : "1258",
+  "noiDungSuKien" : "Chiến tranh Nguyên Mông–Đại Việt lần 1",
+  "nhanVat" : "[Chiến tranh Nguyên Mông–Đại Việt lần 1]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Trần",
+  "thoiGian" : "1282",
+  "noiDungSuKien" : "Hội nghị Bình Than, triệu họp vương hầu, trăm quan",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Trần",
+  "thoiGian" : "1284",
+  "noiDungSuKien" : "Hội nghị Diên Hồng, triệu họp bô lão cả nước",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Trần",
+  "thoiGian" : "1285",
+  "noiDungSuKien" : "Chiến tranh Nguyên Mông-Đại Việt lần 2",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Trần",
+  "thoiGian" : "1287–1288",
+  "noiDungSuKien" : "Chiến tranh Nguyên Mông–Đại Việt lần 3",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Trần",
+  "thoiGian" : "1396",
+  "noiDungSuKien" : "phát hành Thông Bảo hội sao theo chủ trương của Hồ Quý Ly, đây là tiền giấy đầu tiên của Việt Nam",
+  "nhanVat" : "[Hồ Quý Ly]",
+  "trieuDai" : "[Thông Bảo hội sao, Hồ Quý Ly]"
+}, {
+  "thoiDai" : "Nhà Hồ",
+  "thoiGian" : "1400–1407",
+  "noiDungSuKien" : "Chiến tranh Việt-Chiêm",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thuộc Minh",
+  "thoiGian" : "1413",
+  "noiDungSuKien" : "nhà Hậu Trần bị nhà Minh đánh bại",
+  "nhanVat" : "[]",
+  "trieuDai" : "[nhà Hậu Trần]"
+}, {
+  "thoiDai" : "Nhà Lê sơ",
+  "thoiGian" : "1442",
+  "noiDungSuKien" : "Vụ án Lệ Chi viên",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Lê sơ",
+  "thoiGian" : "1459–1460",
+  "noiDungSuKien" : "Chính biến Thiên Hưng, Lê Thánh Tông lên ngôi",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Lê sơ",
+  "thoiGian" : "1471",
+  "noiDungSuKien" : "Chiến tranh Việt–Chiêm, miền bắc Chiêm Thành sáp nhập vào Đại Việt",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Lê sơ",
+  "thoiGian" : "1478–1480",
+  "noiDungSuKien" : "Chiến tranh Đại Việt–Lan Xang",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Lê sơ",
+  "thoiGian" : "1483",
+  "noiDungSuKien" : "biên soạn Luật Hồng Đức",
+  "nhanVat" : "[]",
+  "trieuDai" : "[Luật Hồng Đức]"
+}, {
+  "thoiDai" : "Nhà Lê sơ",
+  "thoiGian" : "1511–1512",
+  "noiDungSuKien" : "khởi nghĩa Trần Tuân",
+  "nhanVat" : "[Trần Tuân]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Lê sơ",
+  "thoiGian" : "1516–1521",
+  "noiDungSuKien" : "khởi nghĩa Trần Cảo",
+  "nhanVat" : "[Trần Cảo]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Mạc",
+  "thoiGian" : "1527",
+  "noiDungSuKien" : "Mạc Đăng Dung ép Lê Cung Hoàng nhường ngôi, lập lên nhà Mạc",
+  "nhanVat" : "[Mạc Đăng Dung]",
+  "trieuDai" : "[nhà Mạc]"
+}, {
+  "thoiDai" : "Nhà Mạc",
+  "thoiGian" : "1533",
+  "noiDungSuKien" : "Nguyễn Kim lập Lê Ninh làm vua, tái lập nhà Lê, đóng đô tại Vạn Lại",
+  "nhanVat" : "[]",
+  "trieuDai" : "[nhà Lê]"
+}, {
+  "thoiDai" : "Nhà Lê trung hưng",
+  "thoiGian" : "1592",
+  "noiDungSuKien" : "nhà Lê trung hưng đánh bại nhà Mạc, lên nắm quyền điều hành đất nước",
+  "nhanVat" : "[]",
+  "trieuDai" : "[Lê trung hưng, nhà Mạc]"
+}, {
+  "thoiDai" : "Nhà Lê trung hưng",
+  "thoiGian" : "1597",
+  "noiDungSuKien" : "Lê Thế Tông dời đô về Đông Kinh",
+  "nhanVat" : "[Lê Thế Tông]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Lê trung hưng",
+  "thoiGian" : "1558",
+  "noiDungSuKien" : "Nguyễn Hoàng vào trấn thủ Thuận Hóa",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Lê trung hưng",
+  "thoiGian" : "1627–1672",
+  "noiDungSuKien" : "Trịnh – Nguyễn phân tranh",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Lê trung hưng",
+  "thoiGian" : "1683",
+  "noiDungSuKien" : "nhà Lê trung hưng đánh bại hoàn toàn nhà Mạc",
+  "nhanVat" : "[]",
+  "trieuDai" : "[Lê trung hưng, nhà Mạc]"
+}, {
+  "thoiDai" : "Nhà Lê trung hưng",
+  "thoiGian" : "1771",
+  "noiDungSuKien" : "khởi nghĩa Tây Sơn",
+  "nhanVat" : "[]",
+  "trieuDai" : "[khởi nghĩa Tây Sơn]"
+}, {
+  "thoiDai" : "Nhà Lê trung hưng",
+  "thoiGian" : "1774–1775",
+  "noiDungSuKien" : "chiến tranh Bình Nam",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Lê trung hưng",
+  "thoiGian" : "1777",
+  "noiDungSuKien" : "Nguyễn Ánh xưng vương",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Tây Sơn",
+  "thoiGian" : "1789",
+  "noiDungSuKien" : "Trận Ngọc Hồi – Đống Đa, đẩy lui quân xâm lược nhà Thanh, nhà Hậu Lê sụp đổ",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Nguyễn",
+  "thoiGian" : "1802",
+  "noiDungSuKien" : "Nguyễn Ánh đánh bại nhà Tây Sơn, lên ngôi vua, đặt niên hiệu là Gia Long, lập lên nhà Nguyễn, đặt kinh đô tại Phú Xuân",
+  "nhanVat" : "[Phú Xuân]",
+  "trieuDai" : "[Phú Xuân]"
+}, {
+  "thoiDai" : "Nhà Nguyễn",
+  "thoiGian" : "1803–1855",
+  "noiDungSuKien" : "Nổi dậy Đá Vách",
+  "nhanVat" : "[]",
+  "trieuDai" : "[Nổi dậy Đá Vách]"
+}, {
+  "thoiDai" : "Nhà Nguyễn",
+  "thoiGian" : "1804",
+  "noiDungSuKien" : "Nguyễn Ánh đổi tên nước thành Việt Nam",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Nguyễn",
+  "thoiGian" : "1821–1827",
+  "noiDungSuKien" : "Khởi nghĩa Phan Bá Vành",
+  "nhanVat" : "[Khởi nghĩa Phan Bá Vành]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Nguyễn",
+  "thoiGian" : "1833–1834",
+  "noiDungSuKien" : "Chiến tranh Việt–Xiêm",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Nguyễn",
+  "thoiGian" : "1836",
+  "noiDungSuKien" : "Việt Nam thôn tính Chân Lạp, đặt làm Trấn Tây Thành",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Nguyễn",
+  "thoiGian" : "1841",
+  "noiDungSuKien" : "rút quân khỏi Trấn Tây Thành, Xiêm đặt Ang Duong lên ngôi, tái lập Chân Lạp",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Nguyễn",
+  "thoiGian" : "1858–1884",
+  "noiDungSuKien" : "Chiến tranh Pháp-Đại Nam",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Nguyễn",
+  "thoiGian" : "1861–1865",
+  "noiDungSuKien" : "Bạo loạn ven biển",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Nguyễn",
+  "thoiGian" : "1866",
+  "noiDungSuKien" : "Chính biến chày vôi",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Pháp thuộc",
+  "thoiGian" : "1885–1895",
+  "noiDungSuKien" : "phong trào Cần Vương",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Pháp thuộc",
+  "thoiGian" : "1902",
+  "noiDungSuKien" : "Liên bang Đông Dương dời thủ đô về Hà Nội",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Pháp thuộc",
+  "thoiGian" : "1906–1908",
+  "noiDungSuKien" : "phong trào Duy Tân",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Pháp thuộc",
+  "thoiGian" : "1908",
+  "noiDungSuKien" : "phong trào chống sưu thuế Trung Kỳ",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Pháp thuộc",
+  "thoiGian" : "1914–1918",
+  "noiDungSuKien" : "khoảng 100.000 người Việt bị ép sang châu Âu chiến đấu cho Pháp trong Chiến tranh thế giới thứ nhất",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Pháp thuộc",
+  "thoiGian" : "1917",
+  "noiDungSuKien" : "khởi nghĩa Thái Nguyên",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Pháp thuộc",
+  "thoiGian" : "1930–1931",
+  "noiDungSuKien" : "phong trào Xô Viết Nghệ Tĩnh",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Pháp thuộc",
+  "thoiGian" : "1939",
+  "noiDungSuKien" : "khoảng 20.000 thanh niên Việt Nam bị cưỡng bức phục vụ Pháp trong chiến tranh thế giới thứ hai",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "1955",
+  "noiDungSuKien" : "Ngô Đình Diệm phế truất Bảo Đại, lên làm Tổng thống, lập nên Việt Nam Cộng hòa",
+  "nhanVat" : "[Bảo Đại, Tổng thống]",
+  "trieuDai" : "[Bảo Đại]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "1959–1960",
+  "noiDungSuKien" : "Phong trào Đồng khởi",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "1961–1965",
+  "noiDungSuKien" : "chiến dịch Chiến tranh đặc biệt",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "1963",
+  "noiDungSuKien" : "đảo chính lật đổ chính quyền Ngô Đình Diệm",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "1965–1968",
+  "noiDungSuKien" : "chiến dịch Chiến tranh cục bộ",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "1968–1973",
+  "noiDungSuKien" : "chiến dịch Việt Nam hóa chiến tranh",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Cộng hòa xã hội chủ nghĩa Việt Nam",
+  "thoiGian" : "1975–1979",
+  "noiDungSuKien" : "chiến tranh biên giới Tây Nam",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Cộng hòa xã hội chủ nghĩa Việt Nam",
+  "thoiGian" : "1979",
+  "noiDungSuKien" : "chiến tranh biên giới phía Bắc",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Cộng hòa xã hội chủ nghĩa Việt Nam",
+  "thoiGian" : "1986",
+  "noiDungSuKien" : "Đổi Mới",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thuộc Đông Ngô",
+  "thoiGian" : "23 tháng 6 năm 229",
+  "noiDungSuKien" : "Tôn Quyền xưng đế, lập nước Đông Ngô, ly khai nhà Hán",
+  "nhanVat" : "[Tôn Quyền, nhà Hán]",
+  "trieuDai" : "[nhà Hán]"
+}, {
+  "thoiDai" : "Thuộc Đường",
+  "thoiGian" : "tháng 3 năm 618",
+  "noiDungSuKien" : "Lý Uyên tuyên bố thành lập nhà Đường",
+  "nhanVat" : "[Lý Uyên]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Thuộc Đường",
+  "thoiGian" : "tháng 5 năm 618",
+  "noiDungSuKien" : "Lý Uyên ép Dương Hựu nhường ngôi",
+  "nhanVat" : "[Lý Uyên, Dương Hựu]",
+  "trieuDai" : "[Dương Hựu]"
+}, {
+  "thoiDai" : "Nhà Tiền Lê",
+  "thoiGian" : "tháng 1 - tháng 4 năm 981",
+  "noiDungSuKien" : "Chiến tranh Tống - Việt",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Lý",
+  "thoiGian" : "21 tháng 11 năm 1009",
+  "noiDungSuKien" : "Lý Công Uẩn lên ngôi vua, thành lập nhà Lý",
+  "nhanVat" : "[Lý Công Uẩn, nhà Lý]",
+  "trieuDai" : "[nhà Lý]"
+}, {
+  "thoiDai" : "Nhà Lý",
+  "thoiGian" : "18 tháng 1 – 28 tháng 2 năm 1077",
+  "noiDungSuKien" : "Trận Như Nguyệt, đẩy lùi quân xâm lược Tống",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Trần",
+  "thoiGian" : "10 tháng 1 năm 1226",
+  "noiDungSuKien" : "Lý Chiêu Hoàng nhường ngôi cho Trần Cảnh, thành lập nhà Trần",
+  "nhanVat" : "[Lý Chiêu Hoàng, Trần Cảnh]",
+  "trieuDai" : "[Lý Chiêu Hoàng]"
+}, {
+  "thoiDai" : "Nhà Hồ",
+  "thoiGian" : "22 tháng 3 năm 1400",
+  "noiDungSuKien" : "Hồ Quý Ly lên ngôi, thành lập nhà Hồ, đổi tên nước thành Đại Ngu",
+  "nhanVat" : "[Hồ Quý Ly]",
+  "trieuDai" : "[Hồ Quý Ly, nhà Hồ]"
+}, {
+  "thoiDai" : "Thuộc Minh",
+  "thoiGian" : "2 tháng 10 năm 1407 nhà Minh thôn tính Đại Ngu, đặt làm quận Giao Chỉ, trung tâm hành chính là Đông Quan",
+  "noiDungSuKien" : "Trần Ngỗi xưng Giản Định đế, lập nên nhà Hậu Trần",
+  "nhanVat" : "[Trần Ngỗi]",
+  "trieuDai" : "[nhà Hậu Trần]"
+}, {
+  "thoiDai" : "Nhà Lê sơ",
+  "thoiGian" : "29 tháng 4 năm 1428",
+  "noiDungSuKien" : "Lê Lợi thành lập quốc gia Đại Việt, đặt kinh đô tại Đông Kinh",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Lê trung hưng",
+  "thoiGian" : "Nguyễn Huệ năm 1778 Nguyễn Nhạc xưng Hoàng đế, đặt niên hiệu Thái Đức, lập lên nhà Tây Sơn, đặt kinh đô tại Quy Nhơn",
+  "noiDungSuKien" : "Nguyễn Nhạc phong làm Bắc Bình Vương",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Lê trung hưng",
+  "thoiGian" : "19 tháng 1 – 20 tháng 1 năm 1785",
+  "noiDungSuKien" : "Nguyễn Huệ phá tan quân Xiêm tại Rạch Gầm – Xoài Mút",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Tây Sơn",
+  "thoiGian" : "22 tháng 12 năm 1788 Nguyễn Nhạc từ bỏ đế hiệu, chỉ xưng Tây Sơn vương",
+  "noiDungSuKien" : "Nguyễn Huệ xưng đế, đặt niên hiệu Quang Trung, đặt kinh đô tại Phú Xuân",
+  "nhanVat" : "[Phú Xuân]",
+  "trieuDai" : "[Phú Xuân]"
+}, {
+  "thoiDai" : "Nhà Tây Sơn",
+  "thoiGian" : "16 tháng 9 năm 1792",
+  "noiDungSuKien" : "Nguyễn Huệ qua đời, con trai Nguyễn Quang Toản lên ngôi",
+  "nhanVat" : "[Nguyễn Quang Toản]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Nhà Nguyễn",
+  "thoiGian" : "15 tháng 2 năm 1839",
+  "noiDungSuKien" : "Minh Mạng đổi tên nước thành Đại Nam",
+  "nhanVat" : "[Minh Mạng]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Pháp thuộc",
+  "thoiGian" : "6 tháng 6 năm 1884",
+  "noiDungSuKien" : "Hòa ước Giáp Thân, kết thúc Chiến tranh Pháp–Đại Nam, triều đình nhà Nguyễn chấp nhận sự bảo hộ của Pháp",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Pháp thuộc",
+  "thoiGian" : "17 tháng 10 năm 1887",
+  "noiDungSuKien" : "thực dân Pháp thành lập Liên bang Đông Dương, gồm Bắc Kỳ, Trung Kỳ, Nam Kỳ và Campuchia, đặt thủ đô tại Sài Gòn",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Pháp thuộc",
+  "thoiGian" : "3 tháng 10 năm 1893",
+  "noiDungSuKien" : "sáp nhập Lào vào Liên bang Đông Dương",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Pháp thuộc",
+  "thoiGian" : "12 tháng 4 năm 1898",
+  "noiDungSuKien" : "sáp nhập Quảng Châu Loan vào Liên bang Đông Dương",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Pháp thuộc",
+  "thoiGian" : "18 tháng 6 năm 1919",
+  "noiDungSuKien" : "Nguyễn Ái Quốc gửi Yêu sách của nhân dân An Nam tới Hội nghị Hòa bình Versailles",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Pháp thuộc",
+  "thoiGian" : "3 tháng 2 năm 1930",
+  "noiDungSuKien" : "hợp nhất ba tổ chức cộng sản thành Đảng Cộng sản Việt Nam",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Pháp thuộc",
+  "thoiGian" : "30 tháng 8 năm 1940",
+  "noiDungSuKien" : "quân đội Nhật Bản tiến vào Đông Dương",
+  "nhanVat" : "[]",
+  "trieuDai" : "[Nhật Bản]"
+}, {
+  "thoiDai" : "Pháp thuộc",
+  "thoiGian" : "25 tháng 9 năm 1940",
+  "noiDungSuKien" : "chính phủ Pháp chấp nhận mọi yêu sách, chấp nhận việc chiếm đóng cùng giao quyền điều hành những căn cứ quân sự cho quân đội Nhật",
+  "nhanVat" : "[chính phủ Pháp]",
+  "trieuDai" : "[quân đội Nhật]"
+}, {
+  "thoiDai" : "Pháp thuộc",
+  "thoiGian" : "22 tháng 12 năm 1944",
+  "noiDungSuKien" : "Việt Nam Tuyên truyền Giải phóng quân được thành lập",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Pháp thuộc",
+  "thoiGian" : "tháng 3 năm 1945",
+  "noiDungSuKien" : "Nhật đảo chính thực dân Pháp",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Pháp thuộc",
+  "thoiGian" : "11 tháng 3 năm 1945",
+  "noiDungSuKien" : "thành lập Đế quốc Việt Nam, phụ thuộc Đế quốc Nhật Bản",
+  "nhanVat" : "[]",
+  "trieuDai" : "[Đế quốc Nhật Bản]"
+}, {
+  "thoiDai" : "Pháp thuộc",
+  "thoiGian" : "14 tháng 8 - 30 tháng 8 năm 1945",
+  "noiDungSuKien" : "cách mạng tháng Tám",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Pháp thuộc",
+  "thoiGian" : "23 tháng 8 năm 1945",
+  "noiDungSuKien" : "Đế quốc Việt Nam sụp đổ",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Pháp thuộc",
+  "thoiGian" : "30 tháng 8 năm 1945",
+  "noiDungSuKien" : "Bảo Đại thoái vị",
+  "nhanVat" : "[Bảo Đại, thoái vị]",
+  "trieuDai" : "[Bảo Đại]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "2 tháng 9 năm 1945",
+  "noiDungSuKien" : "Hồ Chí Minh tuyên bố độc lập, thành lập nước Việt Nam Dân chủ Cộng hòa",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "8 tháng 9 năm 1945",
+  "noiDungSuKien" : "phát động phong trào Bình dân học vụ",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "23 tháng 9 năm 1945",
+  "noiDungSuKien" : "quân Pháp nổ súng tại Sài Gòn, bắt đầu cuộc chiến tranh xâm lược Việt Nam lần 2",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "23 tháng 9 năm 1945",
+  "noiDungSuKien" : "Trần Văn Giàu kêu gọi Nam Bộ kháng chiến",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "6 tháng 1 năm 1946",
+  "noiDungSuKien" : "Tổng tuyển cử bầu Quốc hội đầu tiên",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "26 tháng 3 năm 1946",
+  "noiDungSuKien" : "Pháp lập nên Cộng hòa Tự trị Nam Kỳ thuộc Liên hiệp Pháp, thủ đô Sài Gòn",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "14 tháng 9 năm 1946",
+  "noiDungSuKien" : "Tạm ước Việt - Pháp",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "19 tháng 12 năm 1946",
+  "noiDungSuKien" : "Hồ Chí Minh kêu gọi Toàn quốc kháng chiến",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "7 tháng 10 - 22 tháng 12 năm 1947",
+  "noiDungSuKien" : "Chiến dịch Việt Bắc Thu - Đông 1947",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "14 tháng 6 năm 1949",
+  "noiDungSuKien" : "Pháp lập nên Quốc gia Việt Nam, quốc trưởng Bảo Đại, thủ đô Sài Gòn",
+  "nhanVat" : "[Bảo Đại]",
+  "trieuDai" : "[Bảo Đại]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "8 tháng 5 năm 1950",
+  "noiDungSuKien" : "Mỹ bắt đầu can thiệp quân sự vào Việt Nam",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "16 tháng 9–17 tháng 10 năm 1950",
+  "noiDungSuKien" : "Chiến dịch Biên giới",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "13 tháng 3 - 7 tháng 5 năm 1954",
+  "noiDungSuKien" : "Chiến dịch Điện Biên Phủ",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "20 tháng 7 năm 1954",
+  "noiDungSuKien" : "Hiệp định Genève, Pháp rút quân khỏi Việt Nam và đất nước bị chia cắt",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "10 tháng 10 năm 1954",
+  "noiDungSuKien" : "Giải phóng Thủ đô",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "20 tháng 12 năm 1960",
+  "noiDungSuKien" : "thành lập Mặt trận Dân tộc Giải phóng miền Nam Việt Nam",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "15 tháng 12 năm 1961",
+  "noiDungSuKien" : "thành lập Quân Giải phóng miền Nam Việt Nam",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "8 tháng 3 năm 1965",
+  "noiDungSuKien" : "Mỹ bắt đầu đưa quân vào tham chiến tại miền Nam Việt Nam",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "8 tháng 6 năm 1969",
+  "noiDungSuKien" : "thành lập Cộng hòa Miền Nam Việt Nam, thủ đô Tây Ninh",
+  "nhanVat" : "[]",
+  "trieuDai" : "[Cộng hòa Miền Nam Việt Nam]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "2 tháng 9 năm 1969",
+  "noiDungSuKien" : "Chủ tịch Hồ Chí Minh từ trần",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "18 tháng 12 - 30 tháng 12 năm 1972",
+  "noiDungSuKien" : "Chiến dịch Điện Biên Phủ trên không",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "27 tháng 1 năm 1973",
+  "noiDungSuKien" : "Hiệp định Paris, Mỹ rút quân khỏi Việt Nam",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "26 tháng 4 - 2 tháng 5 năm 1975",
+  "noiDungSuKien" : "Chiến dịch Hồ Chí Minh",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Việt Nam Dân chủ Cộng hòa",
+  "thoiGian" : "30 tháng 4 năm 1975",
+  "noiDungSuKien" : "chính phủ Việt Nam Cộng hòa đầu hàng vô điều kiện Cộng hòa Miền Nam Việt Nam",
+  "nhanVat" : "[]",
+  "trieuDai" : "[Cộng hòa Miền Nam Việt Nam]"
+}, {
+  "thoiDai" : "Cộng hòa xã hội chủ nghĩa Việt Nam",
+  "thoiGian" : "2 tháng 7 năm 1976",
+  "noiDungSuKien" : "thống nhất đất nước, đổi tên nước thành Cộng hòa xã hội chủ nghĩa Việt Nam",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Cộng hòa xã hội chủ nghĩa Việt Nam",
+  "thoiGian" : "20 tháng 9 năm 1977",
+  "noiDungSuKien" : "gia nhập Liên Hợp Quốc",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Cộng hòa xã hội chủ nghĩa Việt Nam",
+  "thoiGian" : "7 tháng 11 năm 1991",
+  "noiDungSuKien" : "bình thường hóa quan hệ với Trung Quốc",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Cộng hòa xã hội chủ nghĩa Việt Nam",
+  "thoiGian" : "11 tháng 7 năm 1995",
+  "noiDungSuKien" : "bình thường hóa quan hệ với Mỹ",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Cộng hòa xã hội chủ nghĩa Việt Nam",
+  "thoiGian" : "28 tháng 7 năm 1995",
+  "noiDungSuKien" : "gia nhập ASEAN",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Cộng hòa xã hội chủ nghĩa Việt Nam",
+  "thoiGian" : "14 tháng 11 năm 1998",
+  "noiDungSuKien" : "gia nhập APEC",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+}, {
+  "thoiDai" : "Cộng hòa xã hội chủ nghĩa Việt Nam",
+  "thoiGian" : "11 tháng 1 năm 2007",
+  "noiDungSuKien" : "gia nhập WTO",
+  "nhanVat" : "[]",
+  "trieuDai" : "[]"
+} ]

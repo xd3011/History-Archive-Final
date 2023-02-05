@@ -1,0 +1,925 @@
+[
+  {
+    "tenTrieuDai": "Hồng Bàng thị",
+    "thoiGian": "(2897–258 TCN)",
+    "listDiTich": [
+      {
+        "tenDiTich": "Di chỉ Làng Cả"
+      },
+      {
+        "tenDiTich": "Di chỉ Châu Can"
+      },
+      {
+        "tenDiTich": "Di chỉ Việt Khê"
+      }
+    ]
+  },
+  {
+    "tenTrieuDai": "Nhà Thục",
+    "thoiGian": "(258–207 TCN)"
+  },
+  {
+    "tenTrieuDai": "Nhà Triệu",
+    "thoiGian": "(207–111 TCN)",
+    "viThe": "Vương quốc",
+    "tonGiaoChinh": "Đa thần giáo",
+    "chinhPhu": "Phong kiến",
+    "thuDo": "Phiên Ngung",
+    "tenNuoc": "Nam Việt",
+    "listNhanVat": [
+      {
+        "TenHuy": "Triệu Vũ Đế"
+      },
+      {
+        "TenHuy": "Triệu Văn Đế"
+      },
+      {
+        "TenHuy": "Triệu Minh Vương"
+      },
+      {
+        "TenHuy": "Triệu Ai Vương"
+      },
+      {
+        "TenHuy": "Triệu Dương Vương"
+      }
+    ],
+    "listSuKien": [
+      {
+        "noiDungSuKien": "Đánh nước Trường Sa ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Chiến tranh Hán-Nam Việt",
+        "nhanVat": [],
+        "trieuDai": []
+      }
+    ],
+    "listDiTich": [
+      {
+        "tenDiTich": "Cố cung Phiên Ngung"
+      },
+      {
+        "tenDiTich": "Lăng mộ Triệu Văn Đế"
+      },
+      {
+        "tenDiTich": "Mộ số 1 La Bạc Loan"
+      },
+      {
+        "tenDiTich": "Di tích đập nước bằng gỗ thời Triệu"
+      }
+    ]
+  },
+  {
+    "tenTrieuDai": "Hai Bà Trưng",
+    "thoiGian": "(40–43)"
+  },
+  {
+    "tenTrieuDai": "Nhà Tiền Lý",
+    "thoiGian": "(544–602)",
+    "chinhPhu": "Chế độ quân chủ",
+    "thuDo": "Long Biên",
+    "tenNuoc": "Vạn Xuân",
+    "listNhanVat": [
+      {
+        "TenHuy": "Lý Nam Đế"
+      },
+      {
+        "TenHuy": "Triệu Việt Vương"
+      },
+      {
+        "TenHuy": "Hậu Lý Nam Đế"
+      },
+      {
+        "TenHuy": "Lý Sư Lợi"
+      },
+      {
+        "TenHuy": "Đào Lang Vương"
+      },
+      {
+        "TenHuy": "Dã Năng Vương"
+      }
+    ]
+  },
+  {
+    "tenTrieuDai": "Tự chủ",
+    "thoiGian": "(905–930; 931–938)"
+  },
+  {
+    "tenTrieuDai": "Nhà Ngô",
+    "thoiGian": "(938–965)",
+    "tonGiaoChinh": "Phật giáo, Đạo giáo, Cảnh giáo[1]",
+    "chinhPhu": "Quân chủ",
+    "thuDo": "Cổ Loa",
+    "tenNuoc": "Tĩnh Hải quân"
+  },
+  {
+    "tenTrieuDai": "Nhà Đinh",
+    "thoiGian": "(968–980)",
+    "tonGiaoChinh": "Phật giáo, Đạo giáo,...",
+    "chinhPhu": "Quân chủ",
+    "thuDo": "Hoa Lư",
+    "tenNuoc": "Đại Cồ Việt",
+    "listSuKien": [
+      {
+        "noiDungSuKien": "Ám hại cha con vua Đinh ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Chiêm Thành vào cướp ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Trung thần tiết liệt ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Nhường ngôi vua",
+        "nhanVat": [],
+        "trieuDai": []
+      }
+    ],
+    "listDiTich": [
+      {
+        "tenDiTich": "Hoa Lư tứ trấn"
+      },
+      {
+        "tenDiTich": "động Hoa Lư"
+      }
+    ]
+  },
+  {
+    "tenTrieuDai": "Nhà Tiền Lê",
+    "thoiGian": "(980–1009)",
+    "tonGiaoChinh": "Phật giáo, Đạo giáo,...",
+    "chinhPhu": "Quân chủ",
+    "thuDo": "Hoa Lư",
+    "tenNuoc": "Đại Cồ Việt"
+  },
+  {
+    "tenTrieuDai": "Nhà Lý",
+    "thoiGian": "(1009–1225)",
+    "tonGiaoChinh": "Phật giáo",
+    "chinhPhu": "Quân chủ",
+    "thuDo": "Hoa Lư",
+    "tenNuoc": "Đại Việt",
+    "listNhanVat": [
+      {
+        "TenHuy": "Thái Tổ"
+      },
+      {
+        "TenHuy": "Thái Tông"
+      },
+      {
+        "TenHuy": "Thánh Tông"
+      },
+      {
+        "TenHuy": "Nhân Tông"
+      },
+      {
+        "TenHuy": "Thần Tông"
+      },
+      {
+        "TenHuy": "Anh Tông"
+      },
+      {
+        "TenHuy": "Cao Tông"
+      },
+      {
+        "TenHuy": "Huệ Tông"
+      },
+      {
+        "TenHuy": "Chiêu Hoàng"
+      }
+    ],
+    "listSuKien": [
+      {
+        "noiDungSuKien": "Dời đô về Thăng Long ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Loạn họ Nùng ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Chiến tranh Việt-Chiêm (1044  1069) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Kháng chiến chống Tống (Phạt Tống  Phòng thủ Như Nguyệt) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Chính biến Canh Ngọ ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Chiến tranh Việt-Khmer ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Loạn Quách Bốc ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Suy vong",
+        "nhanVat": [],
+        "trieuDai": []
+      }
+    ],
+    "listDiTich": [
+      {
+        "tenDiTich": "Hoàng thành Thăng Long"
+      },
+      {
+        "tenDiTich": "Văn Miếu – Quốc Tử Giám"
+      },
+      {
+        "tenDiTich": "Sơn Lăng nhà Lý"
+      }
+    ]
+  },
+  {
+    "tenTrieuDai": "Nhà Trần",
+    "thoiGian": "(1225–1400)",
+    "listNhanVat": [
+      {
+        "TenHuy": "Thái Tông"
+      },
+      {
+        "TenHuy": "Thánh Tông"
+      },
+      {
+        "TenHuy": "Nhân Tông"
+      },
+      {
+        "TenHuy": "Anh Tông"
+      },
+      {
+        "TenHuy": "Minh Tông"
+      },
+      {
+        "TenHuy": "Hiến Tông"
+      },
+      {
+        "TenHuy": "Dụ Tông"
+      },
+      {
+        "TenHuy": "Hôn Đức công"
+      },
+      {
+        "TenHuy": "Nghệ Tông"
+      },
+      {
+        "TenHuy": "Duệ Tông"
+      },
+      {
+        "TenHuy": "Phế Đế"
+      },
+      {
+        "TenHuy": "Thuận Tông"
+      },
+      {
+        "TenHuy": "Thiếu Đế"
+      }
+    ],
+    "listSuKien": [
+      {
+        "noiDungSuKien": "Hoài Vương khởi binh ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Chiến tranh Nguyên Mông – Đại Việt (lần 1  lần 2  lần 3) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Sáp nhập Ô Lý ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Vụ án Huệ Vũ vương ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Biến loạn Đại Định ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Chiến tranh Việt-Chiêm (1367-1396) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Phế Đế Xương Phù ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Nhà Trần sụp đổ",
+        "nhanVat": [],
+        "trieuDai": []
+      }
+    ],
+    "listDiTich": [
+      {
+        "tenDiTich": "Hoàng thành Thăng Long"
+      },
+      {
+        "tenDiTich": "Hành cung Thiên Trường"
+      },
+      {
+        "tenDiTich": "Hành cung Vũ Lâm"
+      },
+      {
+        "tenDiTich": "Tháp Bình Sơn"
+      },
+      {
+        "tenDiTich": "Chùa Phổ Minh"
+      },
+      {
+        "tenDiTich": "Khu di tích nhà Trần tại Đông Triều"
+      },
+      {
+        "tenDiTich": "Khu lăng mộ các vua Trần ở Thái Bình"
+      },
+      {
+        "tenDiTich": "Đền Cao An Phụ"
+      },
+      {
+        "tenDiTich": "Khu di tích Côn Sơn – Kiếp Bạc"
+      },
+      {
+        "tenDiTich": "Khu di tích lịch sử và danh thắng Yên Tử"
+      },
+      {
+        "tenDiTich": "Khu di tích lịch sử Bạch Đằng"
+      }
+    ]
+  },
+  {
+    "tenTrieuDai": "Nhà Hồ",
+    "thoiGian": "(1400–1407)",
+    "viThe": "Đế quốc",
+    "tonGiaoChinh": "Phật giáo, Đạo giáo, Tín ngưỡng Việt Nam",
+    "chinhPhu": "Quân chủ",
+    "thuDo": "Tây Đô",
+    "tenNuoc": "Đại Ngu"
+  },
+  {
+    "tenTrieuDai": "Nhà Hậu Trần",
+    "thoiGian": "(1407–1414; 1426–1427)",
+    "viThe": "Đế quốc",
+    "tonGiaoChinh": "Tam giáo quy nguyên",
+    "chinhPhu": "Quân chủ chuyên chế",
+    "thuDo": "Mô Độ",
+    "tenNuoc": "Nhà Hậu Trần 茹後陳",
+    "listNhanVat": [
+      {
+        "TenHuy": "Thái Tông"
+      },
+      {
+        "TenHuy": "Thánh Tông"
+      },
+      {
+        "TenHuy": "Nhân Tông"
+      },
+      {
+        "TenHuy": "Anh Tông"
+      },
+      {
+        "TenHuy": "Minh Tông"
+      },
+      {
+        "TenHuy": "Hiến Tông"
+      },
+      {
+        "TenHuy": "Dụ Tông"
+      },
+      {
+        "TenHuy": "Hôn Đức công"
+      },
+      {
+        "TenHuy": "Nghệ Tông"
+      },
+      {
+        "TenHuy": "Duệ Tông"
+      },
+      {
+        "TenHuy": "Phế Đế"
+      },
+      {
+        "TenHuy": "Thuận Tông"
+      },
+      {
+        "TenHuy": "Thiếu Đế"
+      }
+    ],
+    "listSuKien": [
+      {
+        "noiDungSuKien": "Hoài Vương khởi binh ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Chiến tranh Nguyên Mông – Đại Việt (lần 1  lần 2  lần 3) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Sáp nhập Ô Lý ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Vụ án Huệ Vũ vương ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Biến loạn Đại Định ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Chiến tranh Việt-Chiêm (1367-1396) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Phế Đế Xương Phù ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Nhà Trần sụp đổ",
+        "nhanVat": [],
+        "trieuDai": []
+      }
+    ],
+    "listDiTich": [
+      {
+        "tenDiTich": "Hoàng thành Thăng Long"
+      },
+      {
+        "tenDiTich": "Hành cung Thiên Trường"
+      },
+      {
+        "tenDiTich": "Hành cung Vũ Lâm"
+      },
+      {
+        "tenDiTich": "Tháp Bình Sơn"
+      },
+      {
+        "tenDiTich": "Chùa Phổ Minh"
+      },
+      {
+        "tenDiTich": "Khu di tích nhà Trần tại Đông Triều"
+      },
+      {
+        "tenDiTich": "Khu lăng mộ các vua Trần ở Thái Bình"
+      },
+      {
+        "tenDiTich": "Đền Cao An Phụ"
+      },
+      {
+        "tenDiTich": "Khu di tích Côn Sơn – Kiếp Bạc"
+      },
+      {
+        "tenDiTich": "Khu di tích lịch sử và danh thắng Yên Tử"
+      },
+      {
+        "tenDiTich": "Khu di tích lịch sử Bạch Đằng"
+      }
+    ]
+  },
+  {
+    "tenTrieuDai": "Nhà Lê sơ",
+    "thoiGian": "(1428–1527)",
+    "listNhanVat": [
+      {
+        "TenHuy": "Thái Tổ"
+      },
+      {
+        "TenHuy": "Thái Tông"
+      },
+      {
+        "TenHuy": "Nhân Tông"
+      },
+      {
+        "TenHuy": "Thánh Tông"
+      },
+      {
+        "TenHuy": "Hiến Tông"
+      },
+      {
+        "TenHuy": "Túc Tông"
+      },
+      {
+        "TenHuy": "Uy Mục"
+      },
+      {
+        "TenHuy": "Tương Dực"
+      },
+      {
+        "TenHuy": "Chiêu Tông"
+      },
+      {
+        "TenHuy": "Cung Hoàng"
+      }
+    ],
+    "listSuKien": [
+      {
+        "noiDungSuKien": "Khởi nghĩa Lam Sơn ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Vụ án Lệ Chi viên ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Chính biến Thiên Hưng ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Chinh phạt Lan Xang ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Chiến tranh Việt-Chiêm (1471) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Nhà Lê sơ sụp đổ",
+        "nhanVat": [],
+        "trieuDai": []
+      }
+    ]
+  },
+  {
+    "tenTrieuDai": "Nhà Mạc",
+    "thoiGian": "(1527–1592; 1593–1683)",
+    "viThe": "Đế quốc",
+    "tonGiaoChinh": "Tam giáo quy nguyên",
+    "chinhPhu": "Quân chủ",
+    "thuDo": "Đông Kinh",
+    "listSuKien": [
+      {
+        "noiDungSuKien": "Chiến tranh Lê-Mạc ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Chúa Bầu ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Tranh chấp quyền thừa kế ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Vụ ly khai của hai họ Lê, Nguyễn",
+        "nhanVat": [],
+        "trieuDai": []
+      }
+    ]
+  },
+  {
+    "tenTrieuDai": "Nhà Lê trung hưng",
+    "thoiGian": "(1533–1789)",
+    "listNhanVat": [
+      {
+        "TenHuy": "Thái Tổ"
+      },
+      {
+        "TenHuy": "Thái Tông"
+      },
+      {
+        "TenHuy": "Nhân Tông"
+      },
+      {
+        "TenHuy": "Thánh Tông"
+      },
+      {
+        "TenHuy": "Hiến Tông"
+      },
+      {
+        "TenHuy": "Túc Tông"
+      },
+      {
+        "TenHuy": "Uy Mục"
+      },
+      {
+        "TenHuy": "Tương Dực"
+      },
+      {
+        "TenHuy": "Chiêu Tông"
+      },
+      {
+        "TenHuy": "Cung Hoàng"
+      }
+    ],
+    "listSuKien": [
+      {
+        "noiDungSuKien": "Khởi nghĩa Lam Sơn ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Vụ án Lệ Chi viên ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Chính biến Thiên Hưng ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Chinh phạt Lan Xang ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Chiến tranh Việt-Chiêm (1471) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Nhà Lê sơ sụp đổ",
+        "nhanVat": [],
+        "trieuDai": []
+      }
+    ]
+  },
+  {
+    "tenTrieuDai": "Nhà Tây Sơn",
+    "thoiGian": "(1778–1802)",
+    "viThe": "Đế quốc",
+    "tonGiaoChinh": "Phật giáo, Nho giáo, Công giáo, Tín ngưỡng dân gian",
+    "chinhPhu": "Quân chủ chuyên chế",
+    "thuDo": "Quy Nhơn",
+    "tenNuoc": "Đại Việt",
+    "listNhanVat": [
+      {
+        "TenHuy": "Nguyễn Phúc Thuần"
+      },
+      {
+        "TenHuy": "Nguyễn Phúc Dương"
+      },
+      {
+        "TenHuy": "Nguyễn Phúc Ánh"
+      },
+      {
+        "TenHuy": "Trịnh Sâm"
+      },
+      {
+        "TenHuy": "Trịnh Khải"
+      },
+      {
+        "TenHuy": "Trịnh Bồng"
+      },
+      {
+        "TenHuy": "Lê Chiêu Thống"
+      },
+      {
+        "TenHuy": "Rama I"
+      },
+      {
+        "TenHuy": "Chiêu Tăng"
+      },
+      {
+        "TenHuy": "Chiêu Sương"
+      },
+      {
+        "TenHuy": "Lục Côn"
+      },
+      {
+        "TenHuy": "Sương Uyển"
+      },
+      {
+        "TenHuy": "Chiêu Nan"
+      },
+      {
+        "TenHuy": "Thiệu Kiểu"
+      },
+      {
+        "TenHuy": "Thiệu Đế"
+      },
+      {
+        "TenHuy": "Càn Long"
+      },
+      {
+        "TenHuy": "Tôn Sĩ Nghị"
+      },
+      {
+        "TenHuy": "Sầm Nghi Đống"
+      },
+      {
+        "TenHuy": "Hứa Thế Hanh"
+      },
+      {
+        "TenHuy": "Thượng Duy Thăng"
+      },
+      {
+        "TenHuy": "Trương Triều Long"
+      },
+      {
+        "TenHuy": "Lý Hóa Long"
+      },
+      {
+        "TenHuy": "Ô Đại Kinh"
+      },
+      {
+        "TenHuy": "Phúc Khang An"
+      },
+      {
+        "TenHuy": "De Forcant"
+      },
+      {
+        "TenHuy": "Jean-Marie Dayot"
+      },
+      {
+        "TenHuy": "Jean-Marie Despiau"
+      },
+      {
+        "TenHuy": "Jean-Baptiste Chaigneau"
+      },
+      {
+        "TenHuy": "Laurent André Barisy"
+      },
+      {
+        "TenHuy": "Olivier de Puymanel"
+      },
+      {
+        "TenHuy": "Philippe Vannier"
+      },
+      {
+        "TenHuy": "Pierre Pigneau de Behaine"
+      },
+      {
+        "TenHuy": "Lê Chiêu Thống"
+      }
+    ],
+    "listSuKien": [
+      {
+        "noiDungSuKien": "Trận Quy Nhơn 1 (1773) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Trận Phú Yên (1776) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Trận Gia Định 1 (1776) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Trận Gia Định 2 (1777) Trận Gia Định 3 (1782) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Trận Gia Định 4 (1783) Trận Rạch Gầm – Xoài Mút (1785) Trận Nam Vang (1785) Trận Cẩm Sa (1775) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Trận Phú Xuân (1786) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Trận Sơn Nam (1786) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Trận Thăng Long (1786) Cuộc bao vây Thành Quy Nhơn (1787) Trận Hà Hồi (1789) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Trận Ngọc Hồi (1789) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Trận Đống Đa (1789) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Trận Thăng Long (1789) Trận Xieng Khuang (1791) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Trận Viêng Chăn (1791) Trận Gia Định 5 (1787) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Trận Thị Nại 1 (1792) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Trận Quy Nhơn 2 (1799) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Trận Quy Nhơn 3 (1800-1801) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Trận Thị Nại 2 (1801) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Trận Phú Xuân (1801) ",
+        "nhanVat": [],
+        "trieuDai": []
+      },
+      {
+        "noiDungSuKien": " Trận Trấn Ninh (1802)",
+        "nhanVat": [],
+        "trieuDai": []
+      }
+    ],
+    "listDiTich": [
+      {
+        "tenDiTich": "Thành Hoàng Đế"
+      },
+      {
+        "tenDiTich": "Bảo tàng Quang Trung"
+      },
+      {
+        "tenDiTich": "Phượng Hoàng Trung Đô"
+      },
+      {
+        "tenDiTich": "Đền thờ Quang Trung"
+      },
+      {
+        "tenDiTich": "Chùa Bộc"
+      },
+      {
+        "tenDiTich": "Gò Đống Đa"
+      },
+      {
+        "tenDiTich": "Trung Liệt miếu"
+      },
+      {
+        "tenDiTich": "Phòng tuyến Tam Điệp"
+      },
+      {
+        "tenDiTich": "Khu di tích chiến thắng Rạch Gầm - Xoài Mút"
+      },
+      {
+        "tenDiTich": "Núi Bân"
+      },
+      {
+        "tenDiTich": "Đàn Nam Giao Tây Sơn"
+      },
+      {
+        "tenDiTich": "Quần thể di tích Tây Sơn Thượng Đạo"
+      }
+    ]
+  },
+  {
+    "tenTrieuDai": "Nhà Nguyễn",
+    "thoiGian": "(1802–1945)",
+    "viThe": "Đế quốc nội địa chịu sự triều cống cho Trung Quốc (1802–1884)[3][4] Chế độ bảo hộ của Pháp (1884–1945)[5][6] Chính phủ bù nhìn của Nhật Bản (1945)[7][8]",
+    "tonGiaoChinh": "Nho giáo, Phật giáo, Công giáo, Tín ngưỡng dân gian",
+    "chinhPhu": "Quân chủ chuyên chế",
+    "thuDo": "Phú Xuân",
+    "tenNuoc": "Đại Việt (1802–1804) Việt Nam (1804–1839) Đại Nam (1839–1945)"
+  }
+]

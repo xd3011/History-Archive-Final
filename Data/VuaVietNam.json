@@ -1,0 +1,1451 @@
+[
+  {
+    "Vua": "Kinh Dương Vương",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Kinh Dương Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Lộc Tục",
+    "TheThu": "Khai sáng triều đại, con thứ Đế Minh, em Đế Nghi",
+    "TriVi": "2879 TCN–2794 TCN"
+  },
+  {
+    "Vua": "Lạc Long Quân",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Lạc Long Quân",
+    "NienHieu": "không có",
+    "TenHuy": "Sùng Lãm",
+    "TheThu": "Con Kinh Dương Vương",
+    "TriVi": "2525 TCN–2253 TCN"
+  },
+  {
+    "Vua": "Hùng Vương thứ nhất",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Hùng Quốc Vương",
+    "NienHieu": "không có",
+    "TenHuy": "không rõ",
+    "TheThu": "Con trưởng Lạc Long Quân",
+    "TriVi": "TK VII TCN–?"
+  },
+  {
+    "Vua": "Hùng Vương thứ hai",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Hùng Hiền Vương",
+    "NienHieu": "không có",
+    "TenHuy": "không rõ",
+    "TheThu": "",
+    "TriVi": "?–?"
+  },
+  {
+    "Vua": "Hùng Vương thứ ba",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Hùng Lân Vương",
+    "NienHieu": "không có",
+    "TenHuy": "không rõ",
+    "TheThu": "",
+    "TriVi": "?–?"
+  },
+  {
+    "Vua": "Hùng Vương thứ tư",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Hùng Diệp Vương",
+    "NienHieu": "không có",
+    "TenHuy": "không rõ",
+    "TheThu": "",
+    "TriVi": "?–?"
+  },
+  {
+    "Vua": "Hùng Vương thứ năm",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Hùng Hy Vương",
+    "NienHieu": "không có",
+    "TenHuy": "không rõ",
+    "TheThu": "",
+    "TriVi": "?–?"
+  },
+  {
+    "Vua": "Hùng Vương thứ sáu",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Hùng Huy Vương",
+    "NienHieu": "không có",
+    "TenHuy": "không rõ",
+    "TheThu": "",
+    "TriVi": "?–?"
+  },
+  {
+    "Vua": "Hùng Vương thứ bảy",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Hùng Chiêu Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Lang Liêu",
+    "TheThu": "",
+    "TriVi": "?–?"
+  },
+  {
+    "Vua": "Hùng Vương thứ tám",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Hùng Vĩ Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Thừa Vân Lang",
+    "TheThu": "",
+    "TriVi": "?–?"
+  },
+  {
+    "Vua": "Hùng Vương thứ chín",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Hùng Định Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Quân Lang",
+    "TheThu": "",
+    "TriVi": "?–?"
+  },
+  {
+    "Vua": "Hùng Vương thứ mười",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Hùng Uy Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Hùng Hải Lang",
+    "TheThu": "",
+    "TriVi": "?–?"
+  },
+  {
+    "Vua": "Hùng Vương thứ 11",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Hùng Trinh Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Hưng Đức Lang",
+    "TheThu": "",
+    "TriVi": "?–?"
+  },
+  {
+    "Vua": "Hùng Vương thứ 12",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Hùng Vũ Vương",
+    "NienHieu": "không có",
+    "TenHuy": "không rõ",
+    "TheThu": "",
+    "TriVi": "?–?"
+  },
+  {
+    "Vua": "Hùng Vương thứ 13",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Hùng Việt Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Tuấn Lang",
+    "TheThu": "",
+    "TriVi": "?–?"
+  },
+  {
+    "Vua": "Hùng Vương thứ 14",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Hùng Anh Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Chân Nhân Lang",
+    "TheThu": "",
+    "TriVi": "?–?"
+  },
+  {
+    "Vua": "Hùng Vương thứ 15",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Hùng Triêu Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Cảnh Chiêu Lang",
+    "TheThu": "",
+    "TriVi": "?–?"
+  },
+  {
+    "Vua": "Hùng Vương thứ 16",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Hùng Tạo Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Đức Quân Lang",
+    "TheThu": "",
+    "TriVi": "?–?"
+  },
+  {
+    "Vua": "Hùng Vương thứ 17",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Hùng Nghị Vương",
+    "NienHieu": "không có",
+    "TenHuy": "không rõ",
+    "TheThu": "",
+    "TriVi": "?–?"
+  },
+  {
+    "Vua": "Hùng Vương thứ 18",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Hùng Duệ Vương Hùng Tuyền Vương",
+    "NienHieu": "không có",
+    "TenHuy": "không rõ",
+    "TheThu": "",
+    "TriVi": "?–258 TCN hoặc 208 TCN"
+  },
+  {
+    "Vua": "Hùng Vương thứ 19",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Hùng Kính Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Huệ Lang",
+    "TheThu": "",
+    "TriVi": "?–6 năm"
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "",
+    "TenHuy": "",
+    "TheThu": "",
+    "TriVi": ""
+  },
+  {
+    "Vua": "An Dương Vương",
+    "MieuHieu": "không có",
+    "ThuyHieu": "An Dương Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Thục Phán (蜀泮)",
+    "TheThu": "Hậu duệ Khai Minh thị nước Thục thời Xuân Thu Chiến Quốc.",
+    "TriVi": "257 – 208TCN hoặc 207 – 179TCN"
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "",
+    "TenHuy": "",
+    "TheThu": "",
+    "TriVi": ""
+  },
+  {
+    "Vua": "Triệu Vũ Vương",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Vũ Vương Vũ Đế",
+    "NienHieu": "không có",
+    "TenHuy": "Triệu Đà",
+    "TheThu": "Dòng dõi nước Triệu thời Chiến Quốc, khai sáng triều đại.",
+    "TriVi": "204—137TCN"
+  },
+  {
+    "Vua": "Triệu Văn Vương",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Văn Vương Văn Đế",
+    "NienHieu": "không có",
+    "TenHuy": "Triệu Hồ Triệu Muội",
+    "TheThu": "Cháu nội Triệu Đà, con Triệu Trọng Thủy.",
+    "TriVi": "137—125TCN"
+  },
+  {
+    "Vua": "Triệu Minh Vương",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Minh Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Triệu Anh Tề",
+    "TheThu": "Con Triệu Hồ",
+    "TriVi": "125—113TCN"
+  },
+  {
+    "Vua": "Triệu Ai Vương",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Ai Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Triệu Hưng",
+    "TheThu": "Con thứ Triệu Anh Tề",
+    "TriVi": "113—112TCN"
+  },
+  {
+    "Vua": "Triệu Dương Vương",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Dương Vương Thuật Dương Vương Vệ Dương vương Vệ Dương hầu",
+    "NienHieu": "không có",
+    "TenHuy": "Triệu Kiến Đức",
+    "TheThu": "Con trưởng Triệu Anh Tề, anh Triệu Hưng.",
+    "TriVi": "112—111TCN"
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "",
+    "TenHuy": "",
+    "TheThu": "",
+    "TriVi": ""
+  },
+  {
+    "Vua": "Trưng Vương",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Trinh Linh Chi Phu Nhân",
+    "NienHieu": "không có",
+    "TenHuy": "Trưng Trắc (徵側) Lạc Trắc",
+    "TheThu": "Vợ Thi Sách, sáng lập triều đại",
+    "TriVi": "40—43"
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "",
+    "TenHuy": "",
+    "TheThu": "",
+    "TriVi": ""
+  },
+  {
+    "Vua": "Lý Nam Đế",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Nam Đế, Nam Việt Đế",
+    "NienHieu": "Thiên Đức (544–548)",
+    "TenHuy": "Lý Bí Lý Bôn (李賁)",
+    "TheThu": "Nổi dậy tự lập, khai sáng triều đại",
+    "TriVi": "544—548"
+  },
+  {
+    "Vua": "Triệu Việt Vương",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Nam Việt Quốc Vương, Dạ Trạch Vương Thần Vũ Hoàng Đế",
+    "NienHieu": "không có",
+    "TenHuy": "Triệu Quang Phục (趙光復)",
+    "TheThu": "Con Thái phó Triệu Túc, được Lý Nam Đế giao toàn bộ quyền hành.",
+    "TriVi": "548—571"
+  },
+  {
+    "Vua": "Đào Lang Vương",
+    "MieuHieu": "không có",
+    "ThuyHieu": "không có",
+    "NienHieu": "không có",
+    "TenHuy": "Lý Thiên Bảo",
+    "TheThu": "Anh trai Lý Nam Đế",
+    "TriVi": "549—555"
+  },
+  {
+    "Vua": "Hậu Lý Nam Đế",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Nam Đế Anh Liệt Nhân Hiếu Khâm Minh Thánh Vũ Hoàng Đế",
+    "NienHieu": "không có",
+    "TenHuy": "Lý Phật Tử (李佛子)",
+    "TheThu": "Người trong họ Lý Nam Đế",
+    "TriVi": "555—602"
+  },
+  {
+    "Vua": "Lý Sư Lợi",
+    "MieuHieu": "không có",
+    "ThuyHieu": "không có",
+    "NienHieu": "không có",
+    "TenHuy": "Lý Sư Lợi",
+    "TheThu": "con Hậu Lý Nam Đế",
+    "TriVi": "602—603"
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "",
+    "TenHuy": "",
+    "TheThu": "",
+    "TriVi": ""
+  },
+  {
+    "Vua": "Mai Hắc Đế",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Đại Đế, Hắc Đế",
+    "NienHieu": "không có",
+    "TenHuy": "Mai Thúc Loan, (梅叔鸞) Mai Huyền Thành, Mai Lập Thành, Mai Thúc Yên, Mai Phượng.",
+    "TheThu": "Con Mai Hoàn, sáng lập triều đại.",
+    "TriVi": "713—722"
+  },
+  {
+    "Vua": "Mai Thiếu Đế",
+    "MieuHieu": "không có",
+    "ThuyHieu": "không có",
+    "NienHieu": "không có",
+    "TenHuy": "Mai Thúc Huy, Mai Bảo Sơn",
+    "TheThu": "Con út Mai Hắc Đế, em song sinh với Bạch Đầu Đế.",
+    "TriVi": "722—723"
+  },
+  {
+    "Vua": "Bạch Đầu Đế",
+    "MieuHieu": "không có",
+    "ThuyHieu": "không có",
+    "NienHieu": "không có",
+    "TenHuy": "Mai Kỳ Sơn",
+    "TheThu": "Con thứ hai Mai Hắc Đế, anh song sinh với Mai Thiếu Đế.",
+    "TriVi": "723—723"
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "",
+    "TenHuy": "",
+    "TheThu": "",
+    "TriVi": ""
+  },
+  {
+    "Vua": "Phùng Hưng",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Bố Cái Đại Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Phùng Hưng (馮興), Phùng Cự Lão",
+    "TheThu": "con Phùng Hạp Khanh, thế tập Biên Khố Di Tù Trưởng",
+    "TriVi": "766—791"
+  },
+  {
+    "Vua": "Phùng An",
+    "MieuHieu": "không có",
+    "ThuyHieu": "không có",
+    "NienHieu": "không có",
+    "TenHuy": "Phùng An",
+    "TheThu": "con Phùng Hưng",
+    "TriVi": "791—791"
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "",
+    "TenHuy": "",
+    "TheThu": "",
+    "TriVi": "Minh thuộc"
+  },
+  {
+    "Vua": "Nhà Ngô",
+    "MieuHieu": "",
+    "ThuyHieu": "Nhà Đinh",
+    "NienHieu": "Nhà Tiền Lê",
+    "TenHuy": "Nhà Lý",
+    "TheThu": "Nhà Trần",
+    "TriVi": "Nhà HồNhà Hậu Trần"
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "",
+    "TenHuy": "",
+    "TheThu": "",
+    "TriVi": ""
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "",
+    "TenHuy": "",
+    "TheThu": "",
+    "TriVi": ""
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "",
+    "TenHuy": "",
+    "TheThu": "",
+    "TriVi": ""
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "1009",
+    "TenHuy": "1225",
+    "TheThu": "1400",
+    "TriVi": "1427"
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "",
+    "TenHuy": "",
+    "TheThu": "",
+    "TriVi": ""
+  },
+  {
+    "Vua": "Tiền Ngô Vương",
+    "MieuHieu": "Tiên Chủ",
+    "ThuyHieu": "không có",
+    "NienHieu": "không có",
+    "TenHuy": "Ngô Quyền",
+    "TheThu": "Sáng lập triều đại; con rể Dương Đình Nghệ",
+    "TriVi": "939—944"
+  },
+  {
+    "Vua": "Dương Bình Vương",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Trương Dương Công",
+    "NienHieu": "không có",
+    "TenHuy": "Dương Tam Kha, Dương Chủ Tướng, Dương Thiệu Hồng",
+    "TheThu": "Con trai Dương Đình Nghệ",
+    "TriVi": "944—950"
+  },
+  {
+    "Vua": "Thiên Sách Vương",
+    "MieuHieu": "không có",
+    "ThuyHieu": "không có",
+    "NienHieu": "không có",
+    "TenHuy": "Ngô Xương Ngập",
+    "TheThu": "Con trưởng Ngô Quyền",
+    "TriVi": "951—954"
+  },
+  {
+    "Vua": "Nam Tấn Vương",
+    "MieuHieu": "không có",
+    "ThuyHieu": "không có",
+    "NienHieu": "không có",
+    "TenHuy": "Ngô Xương Tấn, Ngô Xương Văn",
+    "TheThu": "Con thứ Ngô Quyền",
+    "TriVi": "950—965"
+  },
+  {
+    "Vua": "Ngô Sứ Quân",
+    "MieuHieu": "không có",
+    "ThuyHieu": "không có",
+    "NienHieu": "không có",
+    "TenHuy": "Ngô Xương Xí",
+    "TheThu": "Con Ngô Xương Ngập",
+    "TriVi": "965—966"
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "",
+    "TenHuy": "",
+    "TheThu": "",
+    "TriVi": ""
+  },
+  {
+    "Vua": "Đinh Tiên Hoàng",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Tiên Hoàng Đế Đại Thắng Minh Hoàng Đế",
+    "NienHieu": "Thái Bình (970-979)",
+    "TenHuy": "Đinh Bộ Lĩnh, Đinh Hoàn",
+    "TheThu": "Sáng lập triều đại; con nuôi Sứ quân Trần Minh Công",
+    "TriVi": "968—979"
+  },
+  {
+    "Vua": "Đinh Phế Đế",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Phế Đế Thiếu Đế",
+    "NienHieu": "Thái Bình (979-980)",
+    "TenHuy": "Đinh Toàn, Đinh Tuệ",
+    "TheThu": "Con trai thứ 2 Đinh Tiên Hoàng",
+    "TriVi": "979—980"
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "",
+    "TenHuy": "",
+    "TheThu": "",
+    "TriVi": ""
+  },
+  {
+    "Vua": "Lê Đại Hành",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Đại Hành Hoàng Đế Minh Càn Ứng Vận Thần Vũ Thăng Bình Chí Nhân Quảng Hiếu Hoàng đế",
+    "NienHieu": "Thiên Phúc (980–988) Hưng Thống (989–993) Ứng Thiên (994–1005)",
+    "TenHuy": "Lê Hoàn",
+    "TheThu": "Sáng lập triều đại, Phó vương nhiếp chính thời Đinh Phế Đế",
+    "TriVi": "980—1005"
+  },
+  {
+    "Vua": "Lê Trung Tông",
+    "MieuHieu": "Trung Tông",
+    "ThuyHieu": "không có",
+    "NienHieu": "Ứng Thiên (1005–1005)",
+    "TenHuy": "Lê Long Việt",
+    "TheThu": "Con thứ Lê Đại Hành",
+    "TriVi": "1005—1005"
+  },
+  {
+    "Vua": "Lê Ngọa Triều",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Khai Thiên Ứng Vận Thánh Văn Thần Vũ Tắc Thiên Sùng Đạo Đại Thắng Minh Quang Hiếu Hoàng Đế Ngọa Triều Hoàng Đế",
+    "NienHieu": "Ứng Thiên (1005–1007) Cảnh Thụy (1008–1009)",
+    "TenHuy": "Lê Long Đĩnh,",
+    "TheThu": "Con thứ năm Lê Đại Hành",
+    "TriVi": "1005—1009"
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "",
+    "TenHuy": "",
+    "TheThu": "",
+    "TriVi": ""
+  },
+  {
+    "Vua": "Trần Thái Tông",
+    "MieuHieu": "Thái Tông Thiện Hoàng Văn Hoàng",
+    "ThuyHieu": "Thống Thiên Ngự Cực Long Công Hậu Đức Hiền Công Hựu Thuận Thánh Văn Thần Vũ Hiếu Nguyên Hoàng Đế",
+    "NienHieu": "Kiến Trung (1225–1232) Thiên Ứng Chính Bình (1232–1351) Nguyên Phong (1251–1258)",
+    "TenHuy": "Trần Cảnh Trần Bồ Trần Quang Bỉnh Trần Nhật Cảnh",
+    "TheThu": "Sáng lập triều đại, chồng và anh họ Lý Chiêu Hoàng",
+    "TriVi": "1225—1258"
+  },
+  {
+    "Vua": "Trần Thánh Tông",
+    "MieuHieu": "Thánh Tông Nhân Hoàng",
+    "ThuyHieu": "Huyền Công Thịnh Đức Nhân Minh Văn Vũ Tuyên Hiếu Hoàng Đế",
+    "NienHieu": "Thiệu Long (1258–1272) Bảo Phù (1273–1278)",
+    "TenHuy": "Trần Hoảng Trần Uy Hoảng Trần Quang Bính Trần Nhật Huyên",
+    "TheThu": "Con thứ hai Trần Thái Tông",
+    "TriVi": "1258—1279"
+  },
+  {
+    "Vua": "Trần Nhân Tông",
+    "MieuHieu": "Nhân Tông Hiếu Hoàng",
+    "ThuyHieu": "Pháp Thiên Sùng Đạo Ứng Thế Hóa Dân Long Từ Hiển Hiệu Thánh Văn Thần Vũ Nguyên Minh Duệ Hiếu Hoàng Đế",
+    "NienHieu": "Thiệu Bảo (1278–1285) Trùng Hưng (1285–1293)",
+    "TenHuy": "Trần Khâm Trần Nhật Tuấn",
+    "TheThu": "Con trưởng Trần Thánh Tông",
+    "TriVi": "1278—1293"
+  },
+  {
+    "Vua": "Trần Anh Tông",
+    "MieuHieu": "Anh Tông Anh Hoàng",
+    "ThuyHieu": "Hiển Văn Duệ Vũ Khâm Minh Nhân Hiếu Hoàng Đế",
+    "NienHieu": "Hưng Long (1293–1314)",
+    "TenHuy": "Trần Thuyên Trần Nhật 㷃 Trần Nhật 𤊞",
+    "TheThu": "Con trưởng Trần Nhân Tông",
+    "TriVi": "1293—1314"
+  },
+  {
+    "Vua": "Trần Minh Tông",
+    "MieuHieu": "Minh Tông Ninh Hoàng",
+    "ThuyHieu": "Chương Nghiêu Văn Triết Hoàng Đế",
+    "NienHieu": "Đại Khánh (1314–1323) Khai Thái (1324–1329)",
+    "TenHuy": "Trần Mạnh Trần Thánh Sinh Trần Nhật Khoáng",
+    "TheThu": "Con thứ tư Trần Anh Tông",
+    "TriVi": "1314—1329"
+  },
+  {
+    "Vua": "Trần Hiến Tông",
+    "MieuHieu": "Hiến Tông Triết Hoàng",
+    "ThuyHieu": "Thể Nguyên Ngự Cực Duệ Thánh Chí Hiếu Hoàng Đế",
+    "NienHieu": "Khai Hựu (1329–1341)",
+    "TenHuy": "Trần Vượng Trần Thiên Kiến Trần Nhật 㷆",
+    "TheThu": "Con trưởng Trần Minh Tông",
+    "TriVi": "1329—1341"
+  },
+  {
+    "Vua": "Trần Dụ Tông",
+    "MieuHieu": "Dụ Tông Dụ Hoàng",
+    "ThuyHieu": "Thống Thiên Thể Đạo Nhân Minh Quang Hiếu Hoàng đế",
+    "NienHieu": "Thiệu Phong (1341–1357) Đại Trị (1358–1369)",
+    "TenHuy": "Trần Hạo Trần Nhật Khuê",
+    "TheThu": "Con thứ mười Trần Minh Tông, dòng hoàng đích tử",
+    "TriVi": "1341—1369"
+  },
+  {
+    "Vua": "Đại Định Đế",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Hôn Đức Công",
+    "NienHieu": "Đại Định (1369–1370)",
+    "TenHuy": "Trần Nhật Lễ Dương Nhật Lễ Trần Nhật Kiên",
+    "TheThu": "Con riêng của chị dâu Trần Dụ Tông",
+    "TriVi": "1369—1370"
+  },
+  {
+    "Vua": "Trần Nghệ Tông",
+    "MieuHieu": "Nghệ Tông Nghệ Hoàng Nghĩa Hoàng",
+    "ThuyHieu": "Quang Nhiên Anh Triết Hoàng Đế Thể Thiên Kiến Cực Thuần Hiếu Hoàng Đế",
+    "NienHieu": "Thiệu Khánh (1370–1372)",
+    "TenHuy": "Trần Phủ Trần Thúc Minh",
+    "TheThu": "Con thứ ba Trần Minh Tông",
+    "TriVi": "1370—1372"
+  },
+  {
+    "Vua": "Trần Duệ Tông",
+    "MieuHieu": "Duệ Tông Khâm Hoàng",
+    "ThuyHieu": "Kế Thiên Ứng Vận Nhân Minh Khâm Hiếu Hoàng Đế",
+    "NienHieu": "Long Khánh (1373–1377)",
+    "TenHuy": "Trần Kính Trần Nhật Đoan",
+    "TheThu": "Con thứ 11 Trần Minh Tông",
+    "TriVi": "1372—1377"
+  },
+  {
+    "Vua": "Trần Phế Đế",
+    "MieuHieu": "Giản Hoàng",
+    "ThuyHieu": "Phế Đế",
+    "NienHieu": "Xương Phù (1377–1388)",
+    "TenHuy": "Trần Hiện Trần Nhật Vĩ",
+    "TheThu": "Con thứ Trần Duệ Tông",
+    "TriVi": "1377—1388"
+  },
+  {
+    "Vua": "Trần Thuận Tông",
+    "MieuHieu": "Thuận Tông Nguyên Hoàng",
+    "ThuyHieu": "không có",
+    "NienHieu": "Quang Thái (1388–1398)",
+    "TenHuy": "Trần Ngung Trần Nhật Hỗn",
+    "TheThu": "Con thứ của Trần Nghệ Tông",
+    "TriVi": "1388—1398"
+  },
+  {
+    "Vua": "Trần Thiếu Đế",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Thiếu Đế",
+    "NienHieu": "Kiến Tân (1398–1400)",
+    "TenHuy": "Trần An",
+    "TheThu": "Con trưởng Trần Thuận Tông, cháu ngoại Hồ Quý Ly",
+    "TriVi": "1398—1400"
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "",
+    "TenHuy": "",
+    "TheThu": "",
+    "TriVi": ""
+  },
+  {
+    "Vua": "Hồ Quý Ly",
+    "MieuHieu": "Quốc Tổ",
+    "ThuyHieu": "Chương Hoàng",
+    "NienHieu": "Thánh Nguyên (1400)",
+    "TenHuy": "Hồ Quý Ly Hồ Nhất Nguyên Lê Quý Ly Lê Nhất Nguyên",
+    "TheThu": "Sáng lập triều đại, phò mã Trần Minh Tông, ông ngoại Trần Thiếu Đế",
+    "TriVi": "1400—1400"
+  },
+  {
+    "Vua": "Hồ Hán Thương",
+    "MieuHieu": "không có",
+    "ThuyHieu": "không có",
+    "NienHieu": "Thiệu Thành (1401–1402) Khai Đại (1403–1407)",
+    "TenHuy": "Hồ Hán Thương Lê Hán Thương Hồ Hỏa",
+    "TheThu": "Con thứ Hồ Quý Ly",
+    "TriVi": "1400—1407"
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "",
+    "TenHuy": "",
+    "TheThu": "",
+    "TriVi": ""
+  },
+  {
+    "Vua": "Trần Nguyệt Hồ",
+    "MieuHieu": "không có",
+    "ThuyHieu": "không có",
+    "NienHieu": "không có",
+    "TenHuy": "Trần Nguyệt Hồ",
+    "TheThu": "không rõ",
+    "TriVi": "1407—1407"
+  },
+  {
+    "Vua": "Giản Định Đế",
+    "MieuHieu": "không có",
+    "ThuyHieu": "không có",
+    "NienHieu": "Hưng Khánh (1407–1409)",
+    "TenHuy": "Trần Ngỗi, Trần Quỹ",
+    "TheThu": "Con trai thứ Trần Nghệ Tông",
+    "TriVi": "1407—1409"
+  },
+  {
+    "Vua": "Trùng Quang Đế",
+    "MieuHieu": "không có",
+    "ThuyHieu": "không có",
+    "NienHieu": "Trùng Quang (1409–1414)",
+    "TenHuy": "Trần Quý Khoáng, Trần Quý Khoách",
+    "TheThu": "Cháu nội Trần Nghệ Tông",
+    "TriVi": "1409—1414"
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "",
+    "TenHuy": "",
+    "TheThu": "",
+    "TriVi": ""
+  },
+  {
+    "Vua": "Trần Cảo",
+    "MieuHieu": "không có",
+    "ThuyHieu": "không có",
+    "NienHieu": "Thiên Khánh (1426-1428)",
+    "TenHuy": "Trần Cảo, Trần Địch, Trần Cao, Trần Hồ Ông",
+    "TheThu": "1426",
+    "TriVi": "—1428"
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "",
+    "TenHuy": "",
+    "TheThu": "",
+    "TriVi": ""
+  },
+  {
+    "Vua": "Mạc Thái Tổ",
+    "MieuHieu": "Thái Tổ",
+    "ThuyHieu": "Nhân Minh Cao Hoàng Đế",
+    "NienHieu": "Minh Đức (1527–1530)",
+    "TenHuy": "Mạc Đăng Dung",
+    "TheThu": "Cháu 7 đời Mạc Đĩnh Chi, sáng lập triều đại",
+    "TriVi": "1527–1530"
+  },
+  {
+    "Vua": "Mạc Thái Tông",
+    "MieuHieu": "Thái Tông",
+    "ThuyHieu": "Khâm Triết Văn Hoàng Đế",
+    "NienHieu": "Đại Chính (1530–1540)",
+    "TenHuy": "Mạc Đăng Doanh Mạc Phương Doanh",
+    "TheThu": "Con trưởng Mạc Thái Tổ",
+    "TriVi": "1530–1540"
+  },
+  {
+    "Vua": "Mạc Hiến Tông",
+    "MieuHieu": "Hiến Tông",
+    "ThuyHieu": "Hiển Hoàng Đế",
+    "NienHieu": "Quảng Hòa (1540–1546)",
+    "TenHuy": "Mạc Phúc Hải Mạc Đức Nguyên",
+    "TheThu": "Con trưởng Mạc Thái Tông",
+    "TriVi": "1540–1546"
+  },
+  {
+    "Vua": "Mạc Chính Trung",
+    "MieuHieu": "không có",
+    "ThuyHieu": "không có",
+    "NienHieu": "không có",
+    "TenHuy": "Mạc Chính Trung",
+    "TheThu": "Em Mạc Thái Tông",
+    "TriVi": "1546–1547"
+  },
+  {
+    "Vua": "Mạc Tuyên Tông",
+    "MieuHieu": "Tuyên Tông",
+    "ThuyHieu": "Anh Nghị Hoàng Đế Duệ Hoàng Đế",
+    "NienHieu": "Vĩnh Định (1547) Cảnh Lịch (1548–1553) Quang Bảo (1554–1561)",
+    "TenHuy": "Mạc Phúc Nguyên",
+    "TheThu": "Con Mạc Hiến Tông",
+    "TriVi": "1546–1561"
+  },
+  {
+    "Vua": "Mạc Mục Tông Mạc Anh Tổ",
+    "MieuHieu": "Mục Tông Anh Tổ",
+    "ThuyHieu": "An Thiên Huy Địa Trang Văn Cẩn Vũ Bình Định Huệ Cương Hiếu Tĩnh Hoàng Đế",
+    "NienHieu": "Thuần Phúc (1562–1565) Sùng Khang (1566–1577) Diên Thành (1578–1585) Đoan Thái (1586–1587) Hưng Trị (1588–1590) Hồng Ninh (1591–1592)",
+    "TenHuy": "Mạc Mậu Hợp",
+    "TheThu": "Con trai Mạc Tuyên Tông",
+    "TriVi": "1561–1592"
+  },
+  {
+    "Vua": "Mạc Cảnh Tông",
+    "MieuHieu": "Cảnh Tông",
+    "ThuyHieu": "Khai Thiên Xung Địa An Văn Đoạt Vũ Thành Hoàng Đế",
+    "NienHieu": "Vũ An (1592–1592)",
+    "TenHuy": "Mạc Toàn",
+    "TheThu": "Con thứ Mạc Mậu Hợp",
+    "TriVi": "1592–1592"
+  },
+  {
+    "Vua": "Mạc Mẫn Tông",
+    "MieuHieu": "Mẫn Tông",
+    "ThuyHieu": "Hoài Nghị Minh Huấn Trinh Hoàng Đế",
+    "NienHieu": "Bảo Định (1592–1593) Khang Hựu (1593–1593)",
+    "TenHuy": "Mạc Kính Chỉ Mạc Kính Bang",
+    "TheThu": "Con trưởng Mạc Kính Điển, cháu nội Mạc Thái Tông",
+    "TriVi": "1592–1593"
+  },
+  {
+    "Vua": "Mạc Đại Tông",
+    "MieuHieu": "Đại Tông",
+    "ThuyHieu": "Khởi Thiên Đĩnh Địa Khắc Văn Định Vũ Linh Hoàng Đế",
+    "NienHieu": "Càn Thống (1593–1625)",
+    "TenHuy": "Mạc Kính Cung",
+    "TheThu": "Con thứ 7 Mạc Kính Điển",
+    "TriVi": "1592–1625"
+  },
+  {
+    "Vua": "Mạc Quang Tổ",
+    "MieuHieu": "Quang Tổ",
+    "ThuyHieu": "Hoà Thiên Phù Địa Độ Văn Khánh Vũ Huệ Nguyên Hoàng Đế",
+    "NienHieu": "Long Thái (1623–1638)",
+    "TenHuy": "Mạc Kính Khoan",
+    "TheThu": "Cháu nội Mạc Kính Điển",
+    "TriVi": "1623–1638"
+  },
+  {
+    "Vua": "Mạc Minh Tông",
+    "MieuHieu": "Minh Tông",
+    "ThuyHieu": "Trang Thiên Huệ Địa Cảnh Văn Di Vũ Khai Hoàng Đế",
+    "NienHieu": "Thuận Đức (1638–1677)",
+    "TenHuy": "Mạc Kính Vũ Mạc Kính Hoàn Mạc Kính Diệu",
+    "TheThu": "Con Mạc Kính Khoan",
+    "TriVi": "1638–1677"
+  },
+  {
+    "Vua": "Mạc Quý Tông",
+    "MieuHieu": "Quý Tông",
+    "ThuyHieu": "Hoàn Thiên Thanh Địa Đoạt Văn Dương Vũ Huệ Đại Vương",
+    "NienHieu": "Vĩnh Xương (1677–1681)",
+    "TenHuy": "Mạc Kính Hẻ Mạc Kính Thụy Mạc Nguyên Thanh",
+    "TheThu": "Con Mạc Kính Vũ",
+    "TriVi": "1677–1681"
+  },
+  {
+    "Vua": "Mạc Đức Tông",
+    "MieuHieu": "Đức Tông",
+    "ThuyHieu": "Thiên Địa Đại Bảo Văn Vũ Độ Đại Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Mạc Kính Quang Mạc Kính Tiêu Mạc Kính Hoảng",
+    "TheThu": "Con Mạc Kính Vũ, em Mạc Nguyên Thanh",
+    "TriVi": "1681–1683"
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "",
+    "TenHuy": "",
+    "TheThu": "",
+    "TriVi": ""
+  },
+  {
+    "Vua": "Lê Trang Tông",
+    "MieuHieu": "Trang Tông",
+    "ThuyHieu": "Dụ Hoàng Đế",
+    "NienHieu": "Nguyên Hòa (1533–1548)",
+    "TenHuy": "Lê Ninh Lê Huyến Lê Duy Ninh",
+    "TheThu": "Được cho là con Lê Chiêu Tông",
+    "TriVi": "1533–1548"
+  },
+  {
+    "Vua": "Lê Trung Tông",
+    "MieuHieu": "Trung Tông",
+    "ThuyHieu": "Vũ Hoàng Đế",
+    "NienHieu": "Thuận Bình (1548–1556)",
+    "TenHuy": "Lê Huyên Lê Duy Huyên",
+    "TheThu": "Con Lê Trang Tông",
+    "TriVi": "1548–1556"
+  },
+  {
+    "Vua": "Lê Anh Tông",
+    "MieuHieu": "Anh Tông",
+    "ThuyHieu": "Tuấn Hoàng Đế",
+    "NienHieu": "Thiên Hựu (1556-1557) Chính trị (1558–1571) Hồng Phúc (1572–1573)",
+    "TenHuy": "Lê Duy Bang",
+    "TheThu": "Cháu 6 đời của Lê Trừ, anh Lê Thái Tổ",
+    "TriVi": "1556–1573"
+  },
+  {
+    "Vua": "Lê Thế Tông",
+    "MieuHieu": "Thế Tông",
+    "ThuyHieu": "Nghị Hoàng Đế",
+    "NienHieu": "Gia Thái (1573–1577) Quang Hưng (1578–1599)",
+    "TenHuy": "Lê Đàm Lê Duy Đàm",
+    "TheThu": "Con thứ năm Lê Anh Tông",
+    "TriVi": "1573–1599"
+  },
+  {
+    "Vua": "Lê Kính Tông",
+    "MieuHieu": "Kính Tông",
+    "ThuyHieu": "Huệ Hoàng Đế Giản Huy Đế",
+    "NienHieu": "Thận Đức (1600-1600) Hoằng Định (1601-1619)",
+    "TenHuy": "Lê Duy Tân",
+    "TheThu": "Con thứ Lê Thế Tông",
+    "TriVi": "1599–1619"
+  },
+  {
+    "Vua": "Lê Thần Tông",
+    "MieuHieu": "Thần Tông",
+    "ThuyHieu": "Uyên Hoàng Đế",
+    "NienHieu": "Vĩnh Tộ (1620––1628) Đức Long (1629–1634) Dương Hoà (1635–1643)",
+    "TenHuy": "Lê Duy Kỳ",
+    "TheThu": "Con trưởng Lê Kính Tông",
+    "TriVi": "1619–1643"
+  },
+  {
+    "Vua": "Lê Chân Tông",
+    "MieuHieu": "Chân Tông",
+    "ThuyHieu": "Thuận Hoàng Đế",
+    "NienHieu": "Phúc Thái (1643–1649)",
+    "TenHuy": "Lê Duy Hựu Lê Duy Đề",
+    "TheThu": "Con trưởng Lê Thần Tông",
+    "TriVi": "1643–1649"
+  },
+  {
+    "Vua": "Lê Thần Tông",
+    "MieuHieu": "Thần Tông",
+    "ThuyHieu": "Uyên Hoàng Đế",
+    "NienHieu": "Khánh Đức (1649–1652) Thịnh Đức (1653–1657) Vĩnh Thọ (1658–1661) Vạn Khánh (1662)",
+    "TenHuy": "Lê Duy Kỳ",
+    "TheThu": "Làm vua lần 2",
+    "TriVi": "1649–1662"
+  },
+  {
+    "Vua": "Lê Huyền Tông",
+    "MieuHieu": "Huyền Tông",
+    "ThuyHieu": "Mục Hoàng Đế",
+    "NienHieu": "Cảnh Trị (1663–1671)",
+    "TenHuy": "Lê Duy Vũ Lê Duy Hy",
+    "TheThu": "Con thứ Lê Thần Tông",
+    "TriVi": "1663–1671"
+  },
+  {
+    "Vua": "Lê Gia Tông",
+    "MieuHieu": "Gia Tông",
+    "ThuyHieu": "Mỹ Hoàng Đế",
+    "NienHieu": "Dương Đức (1672––1673) Đức Nguyên (1674-1675)",
+    "TenHuy": "Lê Duy Cối Lê Duy Khoái",
+    "TheThu": "Con thứ Lê Thần Tông",
+    "TriVi": "1671–1675"
+  },
+  {
+    "Vua": "Lê Hy Tông",
+    "MieuHieu": "Hy Tông",
+    "ThuyHieu": "Chương Hoàng Đế",
+    "NienHieu": "Vĩnh Trị (1676-1680) Chính Hòa (1680-1705)",
+    "TenHuy": "Lê Duy Hợp Lê Duy Hiệp Lê Duy Cáp",
+    "TheThu": "con thứ tư Lê Thần Tông",
+    "TriVi": "1675—1705"
+  },
+  {
+    "Vua": "Lê Dụ Tông",
+    "MieuHieu": "Dụ Tông",
+    "ThuyHieu": "Hòa Hoàng Đế",
+    "NienHieu": "Vĩnh Thịnh (1706-1719) Bảo Thái (1720-1729)",
+    "TenHuy": "Lê Duy Đường Lê Duy Tạo",
+    "TheThu": "con trưởng Lê Hy Tông",
+    "TriVi": "1705—1729"
+  },
+  {
+    "Vua": "Lê Duy Phường",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Hôn Đức Công",
+    "NienHieu": "Vĩnh Khánh (1729-1732)",
+    "TenHuy": "Lê Duy Phường",
+    "TheThu": "con thứ Lê Dụ Tông",
+    "TriVi": "1729—1732"
+  },
+  {
+    "Vua": "Lê Thuần Tông",
+    "MieuHieu": "Thuần Tông",
+    "ThuyHieu": "Giản Hoàng Đế",
+    "NienHieu": "Long Đức (1732-1735)",
+    "TenHuy": "Lê Duy Tường Lê Duy Hỗ",
+    "TheThu": "con trưởng Lê Dụ Tông",
+    "TriVi": "1732—1735"
+  },
+  {
+    "Vua": "Lê Ý Tông",
+    "MieuHieu": "Ý Tông",
+    "ThuyHieu": "Huy Hoàng Đế",
+    "NienHieu": "Vĩnh Hựu (1735-1740)",
+    "TenHuy": "Lê Duy Thận Lê Duy Chấn Lê Duy Hỗ",
+    "TheThu": "con thứ 11 Lê Dụ Tông",
+    "TriVi": "1735—1740"
+  },
+  {
+    "Vua": "Lê Hiển Tông",
+    "MieuHieu": "Hiển Tông",
+    "ThuyHieu": "Vĩnh Hoàng Đế",
+    "NienHieu": "Cảnh Hưng (1740-1786)",
+    "TenHuy": "Lê Duy Diêu Lê Duy Đào",
+    "TheThu": "con trưởng Lê Thuần Tông",
+    "TriVi": "1740—1786"
+  },
+  {
+    "Vua": "Lê Chiêu Thống",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Mẫn Hoàng Đế",
+    "NienHieu": "Chiêu Thống (1786-1789)",
+    "TenHuy": "Lê Duy Kỳ Lê Duy Khiêm Lê Tư Khiêm",
+    "TheThu": "con Lê Duy Vỹ, cháu đích tôn Lê Hiển Tông",
+    "TriVi": "1786—1789"
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "",
+    "TenHuy": "",
+    "TheThu": "",
+    "TriVi": ""
+  },
+  {
+    "Vua": "Trịnh Kiểm",
+    "MieuHieu": "Thế Tổ",
+    "ThuyHieu": "Minh Khang Thái Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Trịnh Kiểm",
+    "TheThu": "con rể Nguyễn Kim",
+    "TriVi": "1545—1570"
+  },
+  {
+    "Vua": "Trịnh Cối",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Tuấn Đức Hầu, Trung Quốc Công",
+    "NienHieu": "không có",
+    "TenHuy": "Trịnh Cối",
+    "TheThu": "con cả Trịnh Kiểm",
+    "TriVi": "1570—1570"
+  },
+  {
+    "Vua": "Bình An Vương",
+    "MieuHieu": "Thành Tổ",
+    "ThuyHieu": "Triết Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Trịnh Tùng",
+    "TheThu": "con thứ Trịnh Kiểm, chúa Trịnh đầu tiên",
+    "TriVi": "1570—1623"
+  },
+  {
+    "Vua": "Thanh Đô Vương",
+    "MieuHieu": "Văn Tổ",
+    "ThuyHieu": "Nghị Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Trịnh Tráng",
+    "TheThu": "con thứ hai Trịnh Tùng",
+    "TriVi": "1623—1657"
+  },
+  {
+    "Vua": "Tây Định Vương",
+    "MieuHieu": "Hoằng Tổ",
+    "ThuyHieu": "Dương Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Trịnh Tạc",
+    "TheThu": "con thứ hai Trịnh Tráng",
+    "TriVi": "1657—1682"
+  },
+  {
+    "Vua": "Định Nam Vương",
+    "MieuHieu": "Chiêu Tổ",
+    "ThuyHieu": "Khang Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Trịnh Căn",
+    "TheThu": "con trưởng Trịnh Tạc",
+    "TriVi": "1682—1709"
+  },
+  {
+    "Vua": "An Đô Vương",
+    "MieuHieu": "Hy Tổ",
+    "ThuyHieu": "Nhân Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Trịnh Cương",
+    "TheThu": "chắt của Trịnh Căn, cháu Trịnh Vịnh, con Trịnh Bính",
+    "TriVi": "1709—1729"
+  },
+  {
+    "Vua": "Uy Nam Vương",
+    "MieuHieu": "Dụ Tổ",
+    "ThuyHieu": "Thuận Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Trịnh Giang Trịnh Khương Trịnh 𣞪",
+    "TheThu": "con trưởng Trịnh Cương",
+    "TriVi": "1729—1740"
+  },
+  {
+    "Vua": "Minh Đô Vương",
+    "MieuHieu": "Nghị Tổ",
+    "ThuyHieu": "Ân Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Trịnh Doanh",
+    "TheThu": "con thứ Trịnh Cương, em Trịnh Giang",
+    "TriVi": "1740—1767"
+  },
+  {
+    "Vua": "Tĩnh Đô Vương",
+    "MieuHieu": "Thánh Tổ",
+    "ThuyHieu": "Thịnh Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Trịnh Sâm",
+    "TheThu": "con trưởng Trịnh Doanh",
+    "TriVi": "1767—1782"
+  },
+  {
+    "Vua": "Điện Đô Vương",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Xung Mẫn Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Trịnh Cán",
+    "TheThu": "con thứ Trịnh Sâm",
+    "TriVi": "1782—1782"
+  },
+  {
+    "Vua": "Đoan Nam Vương",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Anh Liệt Linh Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Trịnh Khải Trịnh Tông",
+    "TheThu": "con trưởng Trịnh Sâm",
+    "TriVi": "1782—1786"
+  },
+  {
+    "Vua": "Án Đô Vương",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Huệ Định Công",
+    "NienHieu": "không có",
+    "TenHuy": "Trịnh Bồng",
+    "TheThu": "con Trịnh Giang, anh họ Trịnh Sâm",
+    "TriVi": "1786—1787"
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "",
+    "TenHuy": "",
+    "TheThu": "",
+    "TriVi": ""
+  },
+  {
+    "Vua": "Tiên Vương",
+    "MieuHieu": "Liệt Tổ, Thái Tổ",
+    "ThuyHieu": "Triệu Cơ Tùy Thống Khâm Minh Cung Ý Cần Nghĩa Đạt Lý Hiển Ứng Chiêu Hựu Diệu Linh Gia Dụ Hoàng Đế",
+    "NienHieu": "không có",
+    "TenHuy": "Nguyễn Hoàng",
+    "TheThu": "con út Nguyễn Kim",
+    "TriVi": "1558—1613"
+  },
+  {
+    "Vua": "Sãi Vương Phật Vương",
+    "MieuHieu": "Tuyên Tổ, Hy Tông",
+    "ThuyHieu": "Hiển Mô Quang Liệt Ôn Cung Minh Duệ Dực Thiện Tuy Du Hiếu Văn Hoàng Đế",
+    "NienHieu": "không có",
+    "TenHuy": "Nguyễn Phúc Nguyên",
+    "TheThu": "con trai thứ sáu Chúa Tiên",
+    "TriVi": "1613—1635"
+  },
+  {
+    "Vua": "Thượng Vương",
+    "MieuHieu": "Thần Tổ, Thần Tông",
+    "ThuyHieu": "Thừa Cơ Toàn Thống Quân Minh Hùng Nghị Uy Đoán Anh Vũ Hiếu Chiêu Hoàng Đế",
+    "NienHieu": "không có",
+    "TenHuy": "Nguyễn Phúc Lan",
+    "TheThu": "con trai thứ hai Chúa Sãi",
+    "TriVi": "1635—1648"
+  },
+  {
+    "Vua": "Hiền Vương",
+    "MieuHieu": "Nghị Tổ, Thái Tông",
+    "ThuyHieu": "Tuyên Uy Kiến Vũ Anh Minh Trang Chính Thánh Đức Thần Công Hiếu Triết Hoàng Đế",
+    "NienHieu": "không có",
+    "TenHuy": "Nguyễn Phúc Tần Nguyễn Phúc Cần",
+    "TheThu": "con trai thứ hai Chúa Thượng",
+    "TriVi": "1648—1687"
+  },
+  {
+    "Vua": "Nghĩa Vương",
+    "MieuHieu": "Anh Tông",
+    "ThuyHieu": "Thiệu Hư Toản Nghiệp Khoan Hồng Bác Hậu Ôn Huệ Từ Tường Hiếu Nghĩa Hoàng Đế",
+    "NienHieu": "không có",
+    "TenHuy": "Nguyễn Phúc Thái Nguyễn Phúc Trăn Nguyễn Phúc Ngàn",
+    "TheThu": "con trai thứ hai Chúa Hiền",
+    "TriVi": "1687—1691"
+  },
+  {
+    "Vua": "Minh Vương Quốc Chúa",
+    "MieuHieu": "Hiển Tông",
+    "ThuyHieu": "Anh Mô Hùng Lược Thánh Minh Tuyên Đạt Khoan Từ Nhân Thứ Hiếu Minh Hoàng Đế",
+    "NienHieu": "không có",
+    "TenHuy": "Nguyễn Phúc Chu Nguyễn Phúc Tùng",
+    "TheThu": "con trưởng Chúa Nghĩa",
+    "TriVi": "1691—1725"
+  },
+  {
+    "Vua": "Ninh Vương",
+    "MieuHieu": "Túc Tông",
+    "ThuyHieu": "Tuyên Quang Thiệu Liệt Tuấn Triết Tĩnh Uyên Kinh Văn Vĩ Vũ Hiếu Ninh Hoàng Đế",
+    "NienHieu": "không có",
+    "TenHuy": "Nguyễn Phúc Chú Nguyễn Phúc Trú Nguyễn Phúc Thụ Nguyễn Phúc Vượng",
+    "TheThu": "con trưởng Chúa Minh",
+    "TriVi": "1725—1738"
+  },
+  {
+    "Vua": "Vũ Vương",
+    "MieuHieu": "Thế Tông",
+    "ThuyHieu": "Kiền Cương Uy Đoán Thần Nghị Thánh Du Nhân Từ Duệ Trí Hiếu Vũ Hoàng Đế",
+    "NienHieu": "không có",
+    "TenHuy": "Nguyễn Phúc Khoát Nguyễn Phúc Hiểu",
+    "TheThu": "con trưởng Chúa Ninh",
+    "TriVi": "1738—1765"
+  },
+  {
+    "Vua": "Định Vương",
+    "MieuHieu": "Duệ Tông",
+    "ThuyHieu": "Thông Minh Khoan Hậu Anh Mẫn Huệ Hòa Hiếu Định Hoàng Đế",
+    "NienHieu": "không có",
+    "TenHuy": "Nguyễn Phúc Thuần Nguyễn Phúc Hân",
+    "TheThu": "con trai thứ 16 Chúa Vũ",
+    "TriVi": "1765—1776"
+  },
+  {
+    "Vua": "Tân Chính Vương",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Cung Mẫn Anh Đoán Huyền Mặc Vĩ Văn Mục Vương",
+    "NienHieu": "không có",
+    "TenHuy": "Nguyễn Phúc Dương",
+    "TheThu": "con Nguyễn Phúc Hiệu, cháu nội Chúa Vũ, em con chú với vua Gia Long",
+    "TriVi": "1776—1777"
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "",
+    "TenHuy": "",
+    "TheThu": "",
+    "TriVi": ""
+  },
+  {
+    "Vua": "Thái Đức",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Minh Đức Hoàng Đế",
+    "NienHieu": "Thái Đức (1778-1788)",
+    "TenHuy": "Hồ Nhạc Nguyễn Nhạc Nguyễn Văn Nhạc",
+    "TheThu": "con trưởng Hồ Phi Phúc, sáng lập triều đại",
+    "TriVi": "1778—1788"
+  },
+  {
+    "Vua": "Quang Trung",
+    "MieuHieu": "Thái Tổ",
+    "ThuyHieu": "Vũ Hoàng Đế Trung Thuần Vương",
+    "NienHieu": "Quang Trung (1788-1792)",
+    "TenHuy": "Nguyễn Huệ Nguyễn Quang Bình Nguyễn Văn Huệ Hồ Thơm",
+    "TheThu": "con thứ Hồ Phi Phúc, em Nguyễn Nhạc, con rể Lê Hiển Tông",
+    "TriVi": "1788—1792"
+  },
+  {
+    "Vua": "Nguyễn Quang Toản",
+    "MieuHieu": "không có",
+    "ThuyHieu": "không có",
+    "NienHieu": "Cảnh Thịnh (1792-1801) Bảo Hưng (1801-1802)",
+    "TenHuy": "Nguyễn Quang Toản Nguyễn Trát",
+    "TheThu": "con thứ Quang Trung, con rể Lê Hiển Tông",
+    "TriVi": "1792—1802"
+  },
+  {
+    "Vua": "",
+    "MieuHieu": "",
+    "ThuyHieu": "",
+    "NienHieu": "",
+    "TenHuy": "",
+    "TheThu": "",
+    "TriVi": ""
+  },
+  {
+    "Vua": "Gia Long",
+    "MieuHieu": "Thế Tổ",
+    "ThuyHieu": "Khai Thiên Hoằng Đạo Lập Kỷ Thùy Thống Thần Văn Thánh Vũ Tuấn Đức Long Công Chí Nhân Đại Hiếu Cao Hoàng Đế",
+    "NienHieu": "Gia Long (1802–1820)",
+    "TenHuy": "Nguyễn Phúc Ánh Nguyễn Phúc Chủng Nguyễn Phúc Noãn",
+    "TheThu": "Sáng lập triều đại. Con thứ ba của Nguyễn Phúc Luân, cháu nội Nguyễn Phúc Khoát, con rể Lê Hiển Tông",
+    "TriVi": "1802–1820"
+  },
+  {
+    "Vua": "Minh Mạng",
+    "MieuHieu": "Thánh Tổ",
+    "ThuyHieu": "Thể Thiên Xương Vận Chí Hiếu Thuần Đức Văn Vũ Minh Đoán Sáng Thuật Đại Thành Hậu Trạch Phong Công Nhân Hoàng Đế",
+    "NienHieu": "Minh Mạng (1820–1841)",
+    "TenHuy": "Nguyễn Phúc Đảm Nguyễn Phúc Kiểu",
+    "TheThu": "Con thứ tư Gia Long",
+    "TriVi": "1820–1841"
+  },
+  {
+    "Vua": "Thiệu Trị",
+    "MieuHieu": "Hiến Tổ",
+    "ThuyHieu": "Thiệu Thiên Long Vận Chí Thiện Thuần Hiếu Khoan Minh Duệ Đoán Văn Trị Vũ Công Thánh Triết Chương Hoàng Đế",
+    "NienHieu": "Thiệu Trị (1841–1847)",
+    "TenHuy": "Nguyễn Phúc Miên Tông Nguyễn Phúc Tuyền Nguyễn Phúc Dung",
+    "TheThu": "Con trưởng Minh Mạng",
+    "TriVi": "1841–1847"
+  },
+  {
+    "Vua": "Tự Đức",
+    "MieuHieu": "Dực Tông",
+    "ThuyHieu": "Thể Thiên Hanh Vận Chí Thành Đạt Hiếu Thể Kiện Đôn Nhân Khiêm Cung Minh Lược Duệ Văn Anh Hoàng Đế",
+    "NienHieu": "Tự Đức (1847–1883)",
+    "TenHuy": "Nguyễn Phúc Hồng Nhậm Nguyễn Phúc Thì",
+    "TheThu": "Con thứ Thiệu Trị",
+    "TriVi": "1847–1883"
+  },
+  {
+    "Vua": "Dục Đức",
+    "MieuHieu": "Cung Tông",
+    "ThuyHieu": "Huệ Hoàng Đế",
+    "NienHieu": "không có",
+    "TenHuy": "Nguyễn Phúc Ưng Chân Nguyễn Phúc Ưng Ái",
+    "TheThu": "Con thứ Nguyễn Phúc Hồng Y, cháu nội Thiệu Trị, con nuôi Tự Đức",
+    "TriVi": "1883–1883"
+  },
+  {
+    "Vua": "Hiệp Hòa",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Phế Đế",
+    "NienHieu": "Hiệp Hòa (1883)",
+    "TenHuy": "Nguyễn Phúc Hồng Dật Nguyễn Phúc Thăng",
+    "TheThu": "Con thứ 29 Thiệu Trị",
+    "TriVi": "1883–1883"
+  },
+  {
+    "Vua": "Kiến Phúc",
+    "MieuHieu": "Giản Tông",
+    "ThuyHieu": "Thiệu Đức Chí Hiếu Uyên Duệ Nghị Hoàng Đế",
+    "NienHieu": "Kiến Phúc (1883-1884)",
+    "TenHuy": "Nguyễn Phúc Ưng Đăng",
+    "TheThu": "Con thứ Nguyễn Phúc Hồng Cai, cháu nội Thiệu Trị",
+    "TriVi": "1883–1884"
+  },
+  {
+    "Vua": "Hàm Nghi",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Xuất Đế",
+    "NienHieu": "Hàm Nghi (1884–1885)",
+    "TenHuy": "Nguyễn Phúc Ưng Lịch Nguyễn Phúc Minh",
+    "TheThu": "Em trai Kiến Phúc",
+    "TriVi": "1884–1885"
+  },
+  {
+    "Vua": "Đồng Khánh",
+    "MieuHieu": "Cảnh Tông",
+    "ThuyHieu": "Hoằng Liệt Thống Thiết Mẫn Huệ Thuần Hoàng Đế",
+    "NienHieu": "Đồng Khánh (1885–1889)",
+    "TenHuy": "Nguyễn Phúc Ưng Kỷ Nguyễn Phúc Ưng Đường Nguyễn Phúc Ưng Thị Nguyễn Phúc Biện Chánh Mông",
+    "TheThu": "Con trưởng Nguyễn Phúc Hồng Cai, anh Kiến Phúc và Hàm Nghi",
+    "TriVi": "1885–1889"
+  },
+  {
+    "Vua": "Thành Thái",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Phế Đế",
+    "NienHieu": "Thành Thái (1889–1907)",
+    "TenHuy": "Nguyễn Phúc Bửu Lân Nguyễn Phúc Chiêu",
+    "TheThu": "Con Dục Đức",
+    "TriVi": "1889–1907"
+  },
+  {
+    "Vua": "Duy Tân",
+    "MieuHieu": "không có",
+    "ThuyHieu": "Phế Đế",
+    "NienHieu": "Duy Tân (1907–1916)",
+    "TenHuy": "Nguyễn Phúc Vĩnh San Nguyễn Phúc Hoảng",
+    "TheThu": "Con thứ Thành Thái",
+    "TriVi": "1907–1916"
+  },
+  {
+    "Vua": "Khải Định",
+    "MieuHieu": "Hoằng Tông",
+    "ThuyHieu": "Tự Thiên Gia Vận Thánh Minh Thần Trí Nhân Hiếu Thành Kính Di Mô Thừa Liệt Tuyên Hoàng Đế",
+    "NienHieu": "Khải Định (1916-1925)",
+    "TenHuy": "Nguyễn Phúc Bửu Đảo",
+    "TheThu": "Con trưởng Đồng Khánh",
+    "TriVi": "1916–1925"
+  },
+  {
+    "Vua": "Bảo Đại",
+    "MieuHieu": "không có",
+    "ThuyHieu": "không có",
+    "NienHieu": "Bảo Đại (1925–1945)",
+    "TenHuy": "Nguyễn Phúc Vĩnh Thụy Nguyễn Phúc Thiển",
+    "TheThu": "Con Khải Định",
+    "TriVi": "1925–1945"
+  }
+]
